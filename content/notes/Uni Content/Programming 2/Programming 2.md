@@ -1,27 +1,15 @@
 ---
 title: "Programming 2"
 ---
-
-<iframe src="https://drive.google.com/file/d/1rSpRR5Vt0rd8ye1Wa8V5l5iRgOTQBnlR/preview" width="640" height="780" allow="autoplay"></iframe>
-
-
-# Concepts
-
-- [[GUI]]
-- [[JVM]]
-- [[Heap]]
-
----
-
 # Contents
 
-- P1. GUIs
+- P1. [[GUIs]]
 	- P1. MVC
 	- P11. Event Driven Programming
 	- P13. Event Dispatch Chain
-- P15. Trees
-- P16. Binary Trees
-- P18. Binary Search Trees
+- P15. [[Trees (Section)|Trees]]
+	- P16. Binary Trees
+	- P18. Binary Search Trees
 - P19. Nested Classes
 - P21. Local Classes
 - P22. Anonymous Classes
