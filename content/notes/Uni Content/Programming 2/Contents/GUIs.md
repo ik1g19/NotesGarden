@@ -1,8 +1,15 @@
-![[GUIs.excalidraw|600]]
-
+![[GUIs Map.png|600]]
 # Concepts
 
-- [[MVC]] - [[Excalidraw/Uni Content/Programming II/GUIs.excalidraw.md#^IfthcqteW2V3FUG2An5mT|PDF Location]]
-- [[JavaFX]] - [[Excalidraw/Uni Content/Programming II/GUIs.excalidraw.md#^ocabQdnkVVkbdPazuJFFy|PDF Location]]
-- [[Event Dispatch Chain]] - [[Excalidraw/Uni Content/Programming II/GUIs.excalidraw.md#^5S69cugzmyuWSj8o0sEc5|PDF Location]]
+- [[MVC]]
+- [[JavaFX]]
+- [[Event Dispatch Chain]]
 - [[Events]]
+
+# Contents
+
+[[GUIs.excalidraw|Excalidraw]]
+
+- MVCs - [[GUIs.excalidraw#^IfthcqteW2V3FUG2An5mT|PDF Location]]
+- JavaFX - [[GUIs.excalidraw#^ocabQdnkVVkbdPazuJFFy|PDF Location]]
+- Event Driven Programming & The Event Dispatch Chain - [[GUIs.excalidraw#^5S69cugzmyuWSj8o0sEc5|PDF Location]]

@@ -45,7 +45,7 @@ enableToc: false
 
 #### [[notes/Uni Content/Data Management/Data Management|Data Management]] 📝
 
-#### [[notes/Uni Content/Programming 2/Programming 2|Programming II]] 📝 📙
+#### [[Programming 2 ToC|Programming II]] 📝 📙
 
 #### [[notes/Uni Content/Foundations of Comp Sci/Foundations of Comp Sci|Foundations of Comp Sci]] 📝 📙
 
