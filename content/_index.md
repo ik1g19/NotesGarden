@@ -53,7 +53,7 @@ enableToc: false
 
 ## Year 2
 
-#### [[notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks|Distributed Systems and Networks]] 📝 📙
+#### [[Distributed Systems and Networks ToC|Distributed Systems and Networks ToC]] 📝 📙
 
 #### [[Intelligent Systems]] 📝
 

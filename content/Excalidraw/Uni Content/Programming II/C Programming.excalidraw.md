@@ -645,8 +645,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1699,
-			"versionNonce": 1312729677,
+			"version": 1700,
+			"versionNonce": 1823613637,
 			"isDeleted": false,
 			"id": "Vmvk_onm8P3HIxjbmScqy",
 			"fillStyle": "solid",
@@ -663,15 +663,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 44.47781031594874,
 			"seed": 596929091,
 			"groupIds": [
-				"Tl_uWQ7HolIpwRMgBMr-3",
-				"EF37ObHhg_kkxI7MfpVUJ"
+				"Tl_uWQ7HolIpwRMgBMr-3"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166559563,
+			"updated": 1709173104751,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -692,8 +691,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1729,
-			"versionNonce": 974236931,
+			"version": 1730,
+			"versionNonce": 151656459,
 			"isDeleted": false,
 			"id": "JnGQydYBeI72V5PiwNuB2",
 			"fillStyle": "solid",
@@ -710,15 +709,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9639153938439354,
 			"seed": 582232547,
 			"groupIds": [
-				"Tl_uWQ7HolIpwRMgBMr-3",
-				"EF37ObHhg_kkxI7MfpVUJ"
+				"Tl_uWQ7HolIpwRMgBMr-3"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166559563,
+			"updated": 1709173104751,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -739,8 +737,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1628,
-			"versionNonce": 1793972397,
+			"version": 1629,
+			"versionNonce": 1984660005,
 			"isDeleted": false,
 			"id": "p99o8sxWOIl3E3teFCP-1",
 			"fillStyle": "hachure",
@@ -757,20 +755,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 48.195769692204486,
 			"seed": 318436739,
 			"groupIds": [
-				"Tl_uWQ7HolIpwRMgBMr-3",
-				"EF37ObHhg_kkxI7MfpVUJ"
+				"Tl_uWQ7HolIpwRMgBMr-3"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166559563,
+			"updated": 1709173104751,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2386,
-			"versionNonce": 1710953635,
+			"version": 2387,
+			"versionNonce": 130080427,
 			"isDeleted": false,
 			"id": "bjuAUAycAXnXCAZbyPpuV",
 			"fillStyle": "solid",
@@ -787,15 +784,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.537841077707895,
 			"seed": 1403473187,
 			"groupIds": [
-				"l3HUCgcG6DGyQJnPw_Rqi",
-				"EF37ObHhg_kkxI7MfpVUJ"
+				"l3HUCgcG6DGyQJnPw_Rqi"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166559563,
+			"updated": 1709173104751,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -816,8 +812,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2397,
-			"versionNonce": 1516780301,
+			"version": 2398,
+			"versionNonce": 2017588613,
 			"isDeleted": false,
 			"id": "OsTQyA9OZQ5G5-opgpena",
 			"fillStyle": "solid",
@@ -834,15 +830,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 1.0278201924330133,
 			"seed": 1478996163,
 			"groupIds": [
-				"l3HUCgcG6DGyQJnPw_Rqi",
-				"EF37ObHhg_kkxI7MfpVUJ"
+				"l3HUCgcG6DGyQJnPw_Rqi"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166559563,
+			"updated": 1709173104751,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -863,8 +858,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2316,
-			"versionNonce": 194414659,
+			"version": 2317,
+			"versionNonce": 489017675,
 			"isDeleted": false,
 			"id": "W8l4afTKgbrq1bbUHYXdA",
 			"fillStyle": "hachure",
@@ -881,20 +876,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.391009621646035,
 			"seed": 572170339,
 			"groupIds": [
-				"l3HUCgcG6DGyQJnPw_Rqi",
-				"EF37ObHhg_kkxI7MfpVUJ"
+				"l3HUCgcG6DGyQJnPw_Rqi"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166559563,
+			"updated": 1709173104751,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1342,
-			"versionNonce": 416746243,
+			"version": 1343,
+			"versionNonce": 96641643,
 			"isDeleted": false,
 			"id": "4LZqPGqCVk2GGpeFnSejJ",
 			"fillStyle": "solid",
@@ -911,15 +905,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 42.60249039243171,
 			"seed": 1437439341,
 			"groupIds": [
-				"iEVT8zjfvtHAoVLsD7DV4",
-				"QSYVIVm8SR1VnbWxrKvMG"
+				"iEVT8zjfvtHAoVLsD7DV4"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166634296,
+			"updated": 1709173107317,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -940,8 +933,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1372,
-			"versionNonce": 1278565037,
+			"version": 1373,
+			"versionNonce": 654265797,
 			"isDeleted": false,
 			"id": "oS_-wAuMXaouXu4wMTPAB",
 			"fillStyle": "solid",
@@ -958,15 +951,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9232737855943469,
 			"seed": 2006081485,
 			"groupIds": [
-				"iEVT8zjfvtHAoVLsD7DV4",
-				"QSYVIVm8SR1VnbWxrKvMG"
+				"iEVT8zjfvtHAoVLsD7DV4"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166634296,
+			"updated": 1709173107317,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -987,8 +979,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1273,
-			"versionNonce": 1080341155,
+			"version": 1274,
+			"versionNonce": 1169759499,
 			"isDeleted": false,
 			"id": "NkjZHC31IrbscUdWsqQSp",
 			"fillStyle": "hachure",
@@ -1005,20 +997,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 46.163689279724736,
 			"seed": 1798233645,
 			"groupIds": [
-				"iEVT8zjfvtHAoVLsD7DV4",
-				"QSYVIVm8SR1VnbWxrKvMG"
+				"iEVT8zjfvtHAoVLsD7DV4"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166634296,
+			"updated": 1709173107317,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1784,
-			"versionNonce": 1802468621,
+			"version": 1785,
+			"versionNonce": 1673219365,
 			"isDeleted": false,
 			"id": "n9iN7Z2Gofq9wbE2o60ys",
 			"fillStyle": "solid",
@@ -1035,15 +1026,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.663409524796826,
 			"seed": 124555405,
 			"groupIds": [
-				"Gh3TDU2kqJMI2u4zkHKJK",
-				"QSYVIVm8SR1VnbWxrKvMG"
+				"Gh3TDU2kqJMI2u4zkHKJK"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166634296,
+			"updated": 1709173107317,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1064,8 +1054,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1795,
-			"versionNonce": 1662805571,
+			"version": 1796,
+			"versionNonce": 1111966635,
 			"isDeleted": false,
 			"id": "QDEdUw8Qr2Mh0Ym0kDnB_",
 			"fillStyle": "solid",
@@ -1082,15 +1072,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9505523267054351,
 			"seed": 168097517,
 			"groupIds": [
-				"Gh3TDU2kqJMI2u4zkHKJK",
-				"QSYVIVm8SR1VnbWxrKvMG"
+				"Gh3TDU2kqJMI2u4zkHKJK"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166634296,
+			"updated": 1709173107317,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1111,8 +1100,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1716,
-			"versionNonce": 938890093,
+			"version": 1717,
+			"versionNonce": 1535139973,
 			"isDeleted": false,
 			"id": "LqYgkF1nwPnXCNspXMq6d",
 			"fillStyle": "hachure",
@@ -1129,20 +1118,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.52761633526748,
 			"seed": 1031901517,
 			"groupIds": [
-				"Gh3TDU2kqJMI2u4zkHKJK",
-				"QSYVIVm8SR1VnbWxrKvMG"
+				"Gh3TDU2kqJMI2u4zkHKJK"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166634296,
+			"updated": 1709173107317,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2194,
-			"versionNonce": 409746317,
+			"version": 2195,
+			"versionNonce": 1204852939,
 			"isDeleted": false,
 			"id": "le92xn83dQGJQqE5Hc_7q",
 			"fillStyle": "solid",
@@ -1159,15 +1147,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 44.47781031594874,
 			"seed": 836181827,
 			"groupIds": [
-				"7Pkku7r_NlPJjig6b5GdM",
-				"KMT4eIHsI8I4e5nsbLZ1n"
+				"7Pkku7r_NlPJjig6b5GdM"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166589359,
+			"updated": 1709173109960,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1188,8 +1175,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2224,
-			"versionNonce": 1406616045,
+			"version": 2225,
+			"versionNonce": 1304063333,
 			"isDeleted": false,
 			"id": "4OWIgMTOhzSo_UaX8CVs5",
 			"fillStyle": "solid",
@@ -1206,15 +1193,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9639153938439354,
 			"seed": 551042787,
 			"groupIds": [
-				"7Pkku7r_NlPJjig6b5GdM",
-				"KMT4eIHsI8I4e5nsbLZ1n"
+				"7Pkku7r_NlPJjig6b5GdM"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166589359,
+			"updated": 1709173109960,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1235,8 +1221,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2123,
-			"versionNonce": 1288862797,
+			"version": 2124,
+			"versionNonce": 1400457067,
 			"isDeleted": false,
 			"id": "OmuOUusEczOWqTnXgKh3w",
 			"fillStyle": "hachure",
@@ -1253,20 +1239,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 48.195769692204486,
 			"seed": 1037331075,
 			"groupIds": [
-				"7Pkku7r_NlPJjig6b5GdM",
-				"KMT4eIHsI8I4e5nsbLZ1n"
+				"7Pkku7r_NlPJjig6b5GdM"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166589359,
+			"updated": 1709173109960,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2881,
-			"versionNonce": 1261922989,
+			"version": 2882,
+			"versionNonce": 825325765,
 			"isDeleted": false,
 			"id": "Y7euJhQ10iOay1fvKMMBh",
 			"fillStyle": "solid",
@@ -1283,15 +1268,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.537841077707895,
 			"seed": 1941378819,
 			"groupIds": [
-				"IUwUVg23I7ru8AM4RUp2b",
-				"KMT4eIHsI8I4e5nsbLZ1n"
+				"IUwUVg23I7ru8AM4RUp2b"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166589359,
+			"updated": 1709173109960,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1312,8 +1296,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2892,
-			"versionNonce": 1605340429,
+			"version": 2893,
+			"versionNonce": 1330848267,
 			"isDeleted": false,
 			"id": "kVAjh5K57PBiYj1iJqKlc",
 			"fillStyle": "solid",
@@ -1330,15 +1314,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 1.0278201924330133,
 			"seed": 1533230755,
 			"groupIds": [
-				"IUwUVg23I7ru8AM4RUp2b",
-				"KMT4eIHsI8I4e5nsbLZ1n"
+				"IUwUVg23I7ru8AM4RUp2b"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166589359,
+			"updated": 1709173109960,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1359,8 +1342,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2811,
-			"versionNonce": 1236558701,
+			"version": 2812,
+			"versionNonce": 1550850085,
 			"isDeleted": false,
 			"id": "nLBSqNFRw_Cb_IX4y_ohB",
 			"fillStyle": "hachure",
@@ -1377,20 +1360,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.391009621646035,
 			"seed": 912880195,
 			"groupIds": [
-				"IUwUVg23I7ru8AM4RUp2b",
-				"KMT4eIHsI8I4e5nsbLZ1n"
+				"IUwUVg23I7ru8AM4RUp2b"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166589359,
+			"updated": 1709173109960,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1964,
-			"versionNonce": 903793197,
+			"version": 1965,
+			"versionNonce": 365263659,
 			"isDeleted": false,
 			"id": "k1EKb8Pfcc74TS85pFlUN",
 			"fillStyle": "solid",
@@ -1407,15 +1389,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 42.60249039243171,
 			"seed": 1889845763,
 			"groupIds": [
-				"ZaOyj7xVkVImqjiRgQo4a",
-				"rDGnm3tFcW1kwJJxqsHtW"
+				"ZaOyj7xVkVImqjiRgQo4a"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166593483,
+			"updated": 1709173112674,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1436,8 +1417,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1994,
-			"versionNonce": 1295973517,
+			"version": 1995,
+			"versionNonce": 801333509,
 			"isDeleted": false,
 			"id": "xR7QIJ_pIKwE8XGPFB5hF",
 			"fillStyle": "solid",
@@ -1454,15 +1435,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9232737855943469,
 			"seed": 1667467683,
 			"groupIds": [
-				"ZaOyj7xVkVImqjiRgQo4a",
-				"rDGnm3tFcW1kwJJxqsHtW"
+				"ZaOyj7xVkVImqjiRgQo4a"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166593483,
+			"updated": 1709173112674,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1483,8 +1463,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1895,
-			"versionNonce": 1118429933,
+			"version": 1896,
+			"versionNonce": 694345163,
 			"isDeleted": false,
 			"id": "iji-MtsuDHy35_VS57Czj",
 			"fillStyle": "hachure",
@@ -1501,20 +1481,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 46.163689279724736,
 			"seed": 237526339,
 			"groupIds": [
-				"ZaOyj7xVkVImqjiRgQo4a",
-				"rDGnm3tFcW1kwJJxqsHtW"
+				"ZaOyj7xVkVImqjiRgQo4a"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166593483,
+			"updated": 1709173112674,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2007,
-			"versionNonce": 1789459789,
+			"version": 2008,
+			"versionNonce": 958068837,
 			"isDeleted": false,
 			"id": "z4PD9c35FLfLJ-p2Dki3z",
 			"fillStyle": "solid",
@@ -1531,15 +1510,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.663409524796826,
 			"seed": 1582199661,
 			"groupIds": [
-				"pPMimYYSA-RENlgiG4nbT",
-				"rDGnm3tFcW1kwJJxqsHtW"
+				"pPMimYYSA-RENlgiG4nbT"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166593483,
+			"updated": 1709173112674,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1560,8 +1538,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2018,
-			"versionNonce": 1284885421,
+			"version": 2019,
+			"versionNonce": 880471147,
 			"isDeleted": false,
 			"id": "IYW9tQEILqq_nNYNrNAWL",
 			"fillStyle": "solid",
@@ -1578,15 +1556,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9505523267054351,
 			"seed": 879197645,
 			"groupIds": [
-				"pPMimYYSA-RENlgiG4nbT",
-				"rDGnm3tFcW1kwJJxqsHtW"
+				"pPMimYYSA-RENlgiG4nbT"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166593483,
+			"updated": 1709173112674,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1607,8 +1584,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1939,
-			"versionNonce": 1218039309,
+			"version": 1940,
+			"versionNonce": 373859269,
 			"isDeleted": false,
 			"id": "6Aj8g8l_0yyC7iQm9Kvqh",
 			"fillStyle": "hachure",
@@ -1625,20 +1602,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.52761633526748,
 			"seed": 1269840941,
 			"groupIds": [
-				"pPMimYYSA-RENlgiG4nbT",
-				"rDGnm3tFcW1kwJJxqsHtW"
+				"pPMimYYSA-RENlgiG4nbT"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166593483,
+			"updated": 1709173112674,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2422,
-			"versionNonce": 2008346403,
+			"version": 2423,
+			"versionNonce": 2095855237,
 			"isDeleted": false,
 			"id": "BdkPy3-A0uUL8TW5T9TaW",
 			"fillStyle": "solid",
@@ -1655,15 +1631,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 44.47781031594874,
 			"seed": 1643024067,
 			"groupIds": [
-				"-VJYzZW1ES4Yz1RneUi2V",
-				"N5zdZBNIJaGv9jc3yaK0I"
+				"-VJYzZW1ES4Yz1RneUi2V"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166614011,
+			"updated": 1709173115120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1684,8 +1659,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2452,
-			"versionNonce": 1034897549,
+			"version": 2453,
+			"versionNonce": 1073487947,
 			"isDeleted": false,
 			"id": "TngU7iGY5C78dbpr2FS5W",
 			"fillStyle": "solid",
@@ -1702,15 +1677,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9639153938439354,
 			"seed": 1263910499,
 			"groupIds": [
-				"-VJYzZW1ES4Yz1RneUi2V",
-				"N5zdZBNIJaGv9jc3yaK0I"
+				"-VJYzZW1ES4Yz1RneUi2V"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166614011,
+			"updated": 1709173115120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1731,8 +1705,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2351,
-			"versionNonce": 774968003,
+			"version": 2352,
+			"versionNonce": 1703747045,
 			"isDeleted": false,
 			"id": "MNYLJPU8fCzLmgTPElE6F",
 			"fillStyle": "hachure",
@@ -1749,20 +1723,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 48.195769692204486,
 			"seed": 1266022915,
 			"groupIds": [
-				"-VJYzZW1ES4Yz1RneUi2V",
-				"N5zdZBNIJaGv9jc3yaK0I"
+				"-VJYzZW1ES4Yz1RneUi2V"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166614011,
+			"updated": 1709173115120,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2829,
-			"versionNonce": 1462808301,
+			"version": 2830,
+			"versionNonce": 1539825387,
 			"isDeleted": false,
 			"id": "rOZt5eQm5iGhVkhsNzmzB",
 			"fillStyle": "solid",
@@ -1779,15 +1752,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.537841077707895,
 			"seed": 2120877069,
 			"groupIds": [
-				"TjCpgEq4fzAFxE5L2SdOf",
-				"N5zdZBNIJaGv9jc3yaK0I"
+				"TjCpgEq4fzAFxE5L2SdOf"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166614011,
+			"updated": 1709173115120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1808,8 +1780,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2840,
-			"versionNonce": 1957151331,
+			"version": 2841,
+			"versionNonce": 207231301,
 			"isDeleted": false,
 			"id": "pKeJ3WRidCHVx_CQen7pD",
 			"fillStyle": "solid",
@@ -1826,15 +1798,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 1.0278201924330133,
 			"seed": 940046957,
 			"groupIds": [
-				"TjCpgEq4fzAFxE5L2SdOf",
-				"N5zdZBNIJaGv9jc3yaK0I"
+				"TjCpgEq4fzAFxE5L2SdOf"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166614011,
+			"updated": 1709173115120,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1855,8 +1826,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2759,
-			"versionNonce": 1551255885,
+			"version": 2760,
+			"versionNonce": 283298187,
 			"isDeleted": false,
 			"id": "E673AACtQUjENINjSTQTR",
 			"fillStyle": "hachure",
@@ -1873,20 +1844,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.391009621646035,
 			"seed": 1264067789,
 			"groupIds": [
-				"TjCpgEq4fzAFxE5L2SdOf",
-				"N5zdZBNIJaGv9jc3yaK0I"
+				"TjCpgEq4fzAFxE5L2SdOf"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166614011,
+			"updated": 1709173115120,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1785,
-			"versionNonce": 18350893,
+			"version": 1786,
+			"versionNonce": 587236197,
 			"isDeleted": false,
 			"id": "RwEImh9jmWO6UYhryQubw",
 			"fillStyle": "solid",
@@ -1903,15 +1873,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 42.60249039243171,
 			"seed": 1392451683,
 			"groupIds": [
-				"D_QZUaM1l9t8bgJt1zaSv",
-				"TtrkAjzohsxClsncCpx1I"
+				"D_QZUaM1l9t8bgJt1zaSv"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166598538,
+			"updated": 1709173118357,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1932,8 +1901,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1815,
-			"versionNonce": 787027341,
+			"version": 1816,
+			"versionNonce": 1841795435,
 			"isDeleted": false,
 			"id": "BuhEEx4NPTyeK4vBaLKg4",
 			"fillStyle": "solid",
@@ -1950,15 +1919,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9232737855943469,
 			"seed": 463674371,
 			"groupIds": [
-				"D_QZUaM1l9t8bgJt1zaSv",
-				"TtrkAjzohsxClsncCpx1I"
+				"D_QZUaM1l9t8bgJt1zaSv"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166598538,
+			"updated": 1709173118357,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1979,8 +1947,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1716,
-			"versionNonce": 2041109485,
+			"version": 1717,
+			"versionNonce": 1631899333,
 			"isDeleted": false,
 			"id": "LaBjHA4OVNgAkG3xKIORW",
 			"fillStyle": "hachure",
@@ -1997,20 +1965,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 46.163689279724736,
 			"seed": 294036387,
 			"groupIds": [
-				"D_QZUaM1l9t8bgJt1zaSv",
-				"TtrkAjzohsxClsncCpx1I"
+				"D_QZUaM1l9t8bgJt1zaSv"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166598538,
+			"updated": 1709173118357,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1847,
-			"versionNonce": 962647629,
+			"version": 1848,
+			"versionNonce": 1565010955,
 			"isDeleted": false,
 			"id": "ohTLyrLh3ztWoxqL7dD_9",
 			"fillStyle": "solid",
@@ -2027,15 +1994,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.663409524796826,
 			"seed": 1696635821,
 			"groupIds": [
-				"f5Ztz3jlOqMBIEChormVB",
-				"TtrkAjzohsxClsncCpx1I"
+				"f5Ztz3jlOqMBIEChormVB"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166598538,
+			"updated": 1709173118357,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2056,8 +2022,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 1858,
-			"versionNonce": 149587117,
+			"version": 1859,
+			"versionNonce": 464039461,
 			"isDeleted": false,
 			"id": "83unOHUMNqvanBy8eIlS-",
 			"fillStyle": "solid",
@@ -2074,15 +2040,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9505523267054351,
 			"seed": 659201549,
 			"groupIds": [
-				"f5Ztz3jlOqMBIEChormVB",
-				"TtrkAjzohsxClsncCpx1I"
+				"f5Ztz3jlOqMBIEChormVB"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166598538,
+			"updated": 1709173118357,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2103,8 +2068,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1779,
-			"versionNonce": 1810851597,
+			"version": 1780,
+			"versionNonce": 1394373291,
 			"isDeleted": false,
 			"id": "oM0szH6qZbSiV2L3oIxoE",
 			"fillStyle": "hachure",
@@ -2121,20 +2086,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.52761633526748,
 			"seed": 1841648749,
 			"groupIds": [
-				"f5Ztz3jlOqMBIEChormVB",
-				"TtrkAjzohsxClsncCpx1I"
+				"f5Ztz3jlOqMBIEChormVB"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166598538,
+			"updated": 1709173118357,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2350,
-			"versionNonce": 999729389,
+			"version": 2351,
+			"versionNonce": 454689771,
 			"isDeleted": false,
 			"id": "m6pYadt2fJcrBJw54lg_a",
 			"fillStyle": "solid",
@@ -2151,15 +2115,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 44.47781031594874,
 			"seed": 870960611,
 			"groupIds": [
-				"4F5InEC6S5E47sA8jCUHn",
-				"CdwOEgrbrVMyX6wL8yRCO"
+				"4F5InEC6S5E47sA8jCUHn"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173120781,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2180,8 +2143,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2380,
-			"versionNonce": 1980564301,
+			"version": 2381,
+			"versionNonce": 1047053381,
 			"isDeleted": false,
 			"id": "0HmYvhzaNBlcFNpZbIwhB",
 			"fillStyle": "solid",
@@ -2198,15 +2161,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9639153938439354,
 			"seed": 903616899,
 			"groupIds": [
-				"4F5InEC6S5E47sA8jCUHn",
-				"CdwOEgrbrVMyX6wL8yRCO"
+				"4F5InEC6S5E47sA8jCUHn"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173120781,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2227,8 +2189,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2279,
-			"versionNonce": 428413357,
+			"version": 2280,
+			"versionNonce": 1286098571,
 			"isDeleted": false,
 			"id": "9ALvYP4x1hmlYllDqSJL6",
 			"fillStyle": "hachure",
@@ -2245,20 +2207,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 48.195769692204486,
 			"seed": 1187246371,
 			"groupIds": [
-				"4F5InEC6S5E47sA8jCUHn",
-				"CdwOEgrbrVMyX6wL8yRCO"
+				"4F5InEC6S5E47sA8jCUHn"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173120781,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2995,
-			"versionNonce": 1664373773,
+			"version": 2996,
+			"versionNonce": 1806824357,
 			"isDeleted": false,
 			"id": "ioR6KSyGsgJvBOzKUQ0-0",
 			"fillStyle": "solid",
@@ -2275,15 +2236,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.537841077707895,
 			"seed": 463749475,
 			"groupIds": [
-				"nTxiOCoKKPbwgjc8T0a6-",
-				"CdwOEgrbrVMyX6wL8yRCO"
+				"nTxiOCoKKPbwgjc8T0a6-"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173120781,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2304,8 +2264,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 3006,
-			"versionNonce": 789072493,
+			"version": 3007,
+			"versionNonce": 1465140523,
 			"isDeleted": false,
 			"id": "5ouXsvfKBQfX31n268NxE",
 			"fillStyle": "solid",
@@ -2322,15 +2282,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 1.0278201924330133,
 			"seed": 888937731,
 			"groupIds": [
-				"nTxiOCoKKPbwgjc8T0a6-",
-				"CdwOEgrbrVMyX6wL8yRCO"
+				"nTxiOCoKKPbwgjc8T0a6-"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173120781,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2351,8 +2310,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2925,
-			"versionNonce": 500069581,
+			"version": 2926,
+			"versionNonce": 719206149,
 			"isDeleted": false,
 			"id": "jSVaD-tX_q7f6lyJhn1gb",
 			"fillStyle": "hachure",
@@ -2369,20 +2328,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 51.391009621646035,
 			"seed": 2048361635,
 			"groupIds": [
-				"nTxiOCoKKPbwgjc8T0a6-",
-				"CdwOEgrbrVMyX6wL8yRCO"
+				"nTxiOCoKKPbwgjc8T0a6-"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173120781,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1986,
-			"versionNonce": 2065716013,
+			"version": 1987,
+			"versionNonce": 489028037,
 			"isDeleted": false,
 			"id": "7qXXw_OA8J1W3gBflhkkQ",
 			"fillStyle": "solid",
@@ -2399,15 +2357,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 42.60249039243171,
 			"seed": 1944592867,
 			"groupIds": [
-				"y1OK4uHhz1Yq0qzbtPnoC",
-				"PZ03cue34RnFUr5CNPA_y"
+				"y1OK4uHhz1Yq0qzbtPnoC"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173123585,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2428,8 +2385,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2016,
-			"versionNonce": 1667720589,
+			"version": 2017,
+			"versionNonce": 732115211,
 			"isDeleted": false,
 			"id": "Dm4rVIydYPIW3oisIIc-O",
 			"fillStyle": "solid",
@@ -2446,15 +2403,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9232737855943469,
 			"seed": 183496067,
 			"groupIds": [
-				"y1OK4uHhz1Yq0qzbtPnoC",
-				"PZ03cue34RnFUr5CNPA_y"
+				"y1OK4uHhz1Yq0qzbtPnoC"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173123585,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2475,8 +2431,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 1917,
-			"versionNonce": 702360557,
+			"version": 1918,
+			"versionNonce": 942438693,
 			"isDeleted": false,
 			"id": "6ngbFSKH3DgF4LBiLIB3I",
 			"fillStyle": "hachure",
@@ -2493,20 +2449,19 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 46.163689279724736,
 			"seed": 1916618019,
 			"groupIds": [
-				"y1OK4uHhz1Yq0qzbtPnoC",
-				"PZ03cue34RnFUr5CNPA_y"
+				"y1OK4uHhz1Yq0qzbtPnoC"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173123585,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2096,
-			"versionNonce": 2123048525,
+			"version": 2097,
+			"versionNonce": 164550571,
 			"isDeleted": false,
 			"id": "ecsNwCtK71iJQlo_NipRU",
 			"fillStyle": "solid",
@@ -2523,15 +2478,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.663409524796826,
 			"seed": 1724491597,
 			"groupIds": [
-				"1uETjuBrC8oyemE1Ve3Db",
-				"PZ03cue34RnFUr5CNPA_y"
+				"1uETjuBrC8oyemE1Ve3Db"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173123585,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2552,8 +2506,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "line",
-			"version": 2107,
-			"versionNonce": 1414190253,
+			"version": 2108,
+			"versionNonce": 1626082437,
 			"isDeleted": false,
 			"id": "vzUGyy2MH4fAz9EcBzbnN",
 			"fillStyle": "solid",
@@ -2570,15 +2524,14 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 0.9505523267054351,
 			"seed": 319894957,
 			"groupIds": [
-				"1uETjuBrC8oyemE1Ve3Db",
-				"PZ03cue34RnFUr5CNPA_y"
+				"1uETjuBrC8oyemE1Ve3Db"
 			],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173123585,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2599,8 +2552,8 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		},
 		{
 			"type": "rectangle",
-			"version": 2028,
-			"versionNonce": 113620749,
+			"version": 2029,
+			"versionNonce": 2097982027,
 			"isDeleted": false,
 			"id": "qYlk4VVbu3eUJlWvSXh8b",
 			"fillStyle": "hachure",
@@ -2617,13 +2570,12 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 			"height": 47.52761633526748,
 			"seed": 1075312653,
 			"groupIds": [
-				"1uETjuBrC8oyemE1Ve3Db",
-				"PZ03cue34RnFUr5CNPA_y"
+				"1uETjuBrC8oyemE1Ve3Db"
 			],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709166604612,
+			"updated": 1709173123585,
 			"link": null,
 			"locked": false
 		}
@@ -2643,10 +2595,10 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1228.5952380952376,
-		"scrollY": 1588.5079388268423,
+		"scrollX": 2738.0238095238083,
+		"scrollY": 1920.7121798982707,
 		"zoom": {
-			"value": 0.35
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
