@@ -1,4 +1,4 @@
-![[JavaFX Graphics Map.png|600]]
+![[JavaFX Graphics.excalidraw.png|600]]
 
 
 [[JavaFX Graphics.excalidraw|Excalidraw]]

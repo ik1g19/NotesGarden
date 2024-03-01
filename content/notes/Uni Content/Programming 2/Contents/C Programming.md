@@ -1,5 +1,4 @@
-
-![[C Programming Map.png|600]]
+![[C Programming.excalidraw.png|600]]
 # Concepts
 
 - [[Memory Allocation]]

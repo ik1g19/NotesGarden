@@ -1,3 +1,5 @@
+![[Internet & Network Layer.excalidraw.png]]
+
 # Concepts
 
 - [[CIDR]]
@@ -5,8 +7,12 @@
 - [[ARP]]
 - [[ICMP]]
 - [[Ethernet]]
+- [[Virtual LAN]]
+- [[MAC]]
 
 # Contents
+
+[[Internet & Network Layer.excalidraw|Excalidraw]]
 
 - Internet/Network Layer Summary - [[Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md#^IfK0WLAu|PDF Location]]
 - Network Layer Functions - [[Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md#^IfK0WLAu|PDF Location]]

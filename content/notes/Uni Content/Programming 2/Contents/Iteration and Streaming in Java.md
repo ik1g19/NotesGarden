@@ -1,5 +1,4 @@
-
-![[Iteration and Streaming in Java.png|600]]
+![[Iteration and Streaming in Java.excalidraw.png|600]]
 # Concepts
 
 - [[Streams]]

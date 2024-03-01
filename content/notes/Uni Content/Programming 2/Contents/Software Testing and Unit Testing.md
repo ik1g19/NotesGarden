@@ -1,4 +1,4 @@
-![[Software Testing and Unit Testing Map.png|600]]
+![[Software Testing and Unit Testing.excalidraw.png|600]]
 # Concepts
 
 - [[White Box Testing]]

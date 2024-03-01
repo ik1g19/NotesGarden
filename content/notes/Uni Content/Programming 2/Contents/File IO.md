@@ -1,5 +1,4 @@
-
-![[File IO Map.png|600]]
+![[File IO.excalidraw.png|600]]
 # Concepts/Contents
 
 [[File IO.excalidraw|Excalidraw]]

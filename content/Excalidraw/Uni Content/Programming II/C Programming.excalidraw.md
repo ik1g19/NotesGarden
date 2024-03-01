@@ -2595,7 +2595,7 @@ f42500e8134b8d3302d83550864a322c9907c15a: [[Programming 2.pdf#page=78]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2738.0238095238083,
+		"scrollX": 2701.0238095238083,
 		"scrollY": 1920.7121798982707,
 		"zoom": {
 			"value": 0.25

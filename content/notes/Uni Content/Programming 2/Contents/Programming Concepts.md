@@ -1,5 +1,4 @@
-
-![[Programming Concepts Map.png|600]]
+![[Programming Concepts.excalidraw.png]]
 # Concepts/Contents
 
 [[Programming Concepts.excalidraw|Excalidraw]]

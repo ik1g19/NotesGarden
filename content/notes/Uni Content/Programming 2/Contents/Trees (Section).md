@@ -1,5 +1,4 @@
-
-![[Trees Map.png|600]]
+![[Trees.excalidraw.png|600]]
 # Concepts
 
 - [[Trees]]

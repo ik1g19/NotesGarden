@@ -3171,10 +3171,10 @@ da85ec55a555eb19777453e56cdaf9d3c2a4b337: [[Programming 2.pdf#page=70]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -657.3395301941525,
-		"scrollY": 39.12155051599029,
+		"scrollX": 2877.6604698058454,
+		"scrollY": 2192.49655051599,
 		"zoom": {
-			"value": 0.7500000000000001
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -1,4 +1,4 @@
-![[GUIs Map.png|600]]
+![[GUIs.excalidraw.png|600]]
 # Concepts
 
 - [[MVC]]

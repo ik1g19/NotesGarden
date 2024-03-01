@@ -1,4 +1,4 @@
-![[Physical and Link Layers Map.png|600]]
+![[Physical and Link Layers.excalidraw.png|600]]
 
 # Concepts
 
