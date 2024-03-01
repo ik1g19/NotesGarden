@@ -11,6 +11,8 @@
 
 # Contents
 
+[[Physical and Link Layers.excalidraw|Excalidraw]]
+
 - OSI Model, TCP/IP, Tanenbaum Structure - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^nhl22IGy|PDF Location]]
 - Layer Encapsulation - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^nhl22IGy|PDF Location]]
 - Link Layer Functions - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^YhiWjkTy|PDF Location]]

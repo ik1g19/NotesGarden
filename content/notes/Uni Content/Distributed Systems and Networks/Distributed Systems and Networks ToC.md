@@ -13,7 +13,7 @@ title: "Distributed Systems and Networks"
 	- P4. Detecting Errors
 	- P5. Framing
 	- P5. MAC
-- P7. The Internet/Network Layer
+- P7. [[Internet & Network Layer]]
 	- P7. Network Layer Functions
 	- P8. IP Properties
 	- P9. Unreliability
@@ -22,7 +22,7 @@ title: "Distributed Systems and Networks"
 	- P10. Maximising use of Address Space
 	- P10. Subnets
 	- P11. CIDR
-	- P12Cooperative Games. ARP
+	- P12. Cooperative Games. ARP
 	- P13. ICMP
 	- P13. Ethernet and LAN
 	- P13. MAC Address
