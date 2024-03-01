@@ -77,7 +77,73 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 2472,
+            "versionNonce": 846728092,
+            "isDeleted": false,
+            "id": "LG6YRM8b",
+            "fillStyle": "cross-hatch",
+            "strokeWidth": 2,
+            "strokeStyle": "dashed",
+            "roughness": 1,
+            "opacity": 50,
+            "angle": 0,
+            "x": 890.9194982787212,
+            "y": -88.81269788114324,
+            "strokeColor": "transparent",
+            "backgroundColor": "#a5d8ff",
+            "width": 301.2864200875664,
+            "height": 22.565610925572905,
+            "seed": 1249475620,
+            "groupIds": [
+              "hzIwkKIMeL-pK1ve3oEoh"
+            ],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1709306891158,
+            "link": "[[RIP]]",
+            "locked": false
+          },
+          {
+            "type": "rectangle",
+            "version": 2184,
+            "versionNonce": 2133604380,
+            "isDeleted": false,
+            "id": "nNbpVbwQ-_lNFs-i4tN47",
+            "fillStyle": "cross-hatch",
+            "strokeWidth": 2,
+            "strokeStyle": "dashed",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": 887.5317898985331,
+            "y": -92.87970361751886,
+            "strokeColor": "#0c8599",
+            "backgroundColor": "transparent",
+            "width": 312.8683310321169,
+            "height": 32.36568941711556,
+            "seed": 1035884452,
+            "groupIds": [
+              "hzIwkKIMeL-pK1ve3oEoh"
+            ],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1709306891158,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "id": "3FFKFpsH9TpNTxNMSqNFB",
+        "created": 1709308975256
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,

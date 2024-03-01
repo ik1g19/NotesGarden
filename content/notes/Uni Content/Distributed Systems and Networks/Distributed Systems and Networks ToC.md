@@ -42,7 +42,7 @@ title: "Distributed Systems and Networks"
 	- P22. TCP for Video
 	- P23. UDP for Video/Audio
 	- P23. TCP vs UDP
-- P24. The Domain Name System
+- P24. The [[Domain Name System]]
 	- P24. Looking up Data in the DNS
 	- P24. DNS Resolves
 	- P25. Finding DNS Servers
@@ -53,7 +53,7 @@ title: "Distributed Systems and Networks"
 	- P29. RIP Limitations
 	- P30. Link State Routing
 	- P31. Inter-Site Routing
-- P33. IPv6
+- P33. [[IPv6 (Section)|IPv6]]
 	- P33. IPv4 Address Exhaustion
 	- P33. IPv6 Features
 	- P34. IPv6 Address Scopes
@@ -62,13 +62,12 @@ title: "Distributed Systems and Networks"
 	- P36. Neighbour Discovery
 	- P37. Router Advertisements
 	- P37. Stateless Address Auto Configuration (SLAAC)
-	- P37. IPv6 Autoconf Example
 	- P38. Privacy Extensions
 	- P38. Benefits of IPv6
 	- P38. Dual Stack Systems
 	- P39. Translation Mechanisms
 	- P39. Tunnelling
-	- P39 Cooperative Games. Dual Stack Lite
+	- P39 Dual Stack Lite
 	- P40. Barriers to Deployment
 - P40. Application Layer Protocols
 	- P40. DHCP

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Programming 2 ToC.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Programming 2 ToC.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Programming 2 ToC.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Programming 2 ToC.md"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md"
               }
             }
           }
@@ -149,40 +149,41 @@
   },
   "active": "4d463e2b3af1f53c",
   "lastOpenFiles": [
-    "notes/Uni Content/Programming 2/Contents/Iteration and Streaming in Java.md",
-    "notes/Uni Content/Programming 2/Contents/C Programming.md",
-    "notes/Uni Content/Programming 2/Contents/Software Testing and Unit Testing.md",
-    "Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/C Programming.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.png",
-    "notes/Uni Content/Programming 2/Programming 2 ToC.md",
-    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
-    "Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/JVM.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/JVM.excalidraw.png",
-    "notes/Uni Content/Programming 2/Contents/File IO.md",
-    "Excalidraw/Uni Content/Programming II/File IO.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/File IO.excalidraw.png",
-    "notes/Uni Content/Programming 2/Contents/JavaFX Graphics.md",
-    "Excalidraw/Uni Content/Programming II/JavaFX Graphics.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/JavaFX Graphics.excalidraw.png",
-    "notes/Uni Content/Programming 2/Contents/Programming Concepts.md",
-    "Excalidraw/Uni Content/Programming II/Programming Concepts.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/Programming Concepts.excalidraw.png",
-    "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
-    "Excalidraw/Uni Content/Programming II/Trees.excalidraw.md",
-    "Excalidraw/Uni Content/Programming II/Trees.excalidraw.png",
-    "notes/Uni Content/Programming 2/Contents/GUIs.md",
-    "Excalidraw/Uni Content/Programming II/GUIs.excalidraw.md",
-    "_index.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+    "concepts/SLAAC.md",
+    "concepts/Dual Stack Lite.md",
+    "concepts/IPv6.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md",
+    "concepts/CIDR.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
+    "concepts/ARP.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+    "concepts/Event Dispatch Chain.md",
+    "concepts/MAC.md",
+    "concepts/UDP.md",
+    "concepts/TCP.md",
+    "concepts/RIP.md",
+    "concepts/NAT.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.md",
+    "concepts/Tunnelling.md",
+    "concepts/Dual Stack.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.png",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md"
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md",
+    "concepts/Link State Routing.md",
+    "concepts/DNS.md",
+    "notes/Uni Content/Biometrics/Gait Biometrics.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.png",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/C Programming.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/JVM.excalidraw.png",
+    "Excalidraw/Uni Content/Programming II/File IO.excalidraw.png"
   ]
 }

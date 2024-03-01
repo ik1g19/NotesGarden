@@ -3,10 +3,12 @@ title: "Gait Biometrics"
 ---
 
 **Advantages**
+
 - Perceivable at a distance
 - Hard ot disguise
 
 **Potential Applications**
+
 - Security
 - Surveillance
 - Immigration
@@ -113,6 +115,7 @@ $$
 ![|300](notes/Uni%20Content/Biometrics/Images/gait%20moments.gif)
 
 Trying to walk differently:
+
 ![|300](notes/Uni%20Content/Biometrics/Images/Pasted%20image%2020230325175410.png)
 
 ![|300](notes/Uni%20Content/Biometrics/Images/gait%20moments%202.gif)
@@ -125,18 +128,25 @@ Trying to walk differently:
 ![|300](notes/Uni%20Content/Biometrics/Images/Pasted%20image%2020230325175608.png)
 
 1. Background is taken from each frame and pixels thresholded resulting in a binary image
+
 ![|150](notes/Uni%20Content/Biometrics/Images/Pasted%20image%2020230325175723.png)
 2. Normalize silhouettes by height to account for distance
+
 ![|150](notes/Uni%20Content/Biometrics/Images/Pasted%20image%2020230325175802.png)
+
 3. Add all silhouettes together and divide by the number of frames
 4. Resulting image is the signature
+
 ![|150](notes/Uni%20Content/Biometrics/Images/Pasted%20image%2020230325175840.png)
 
 ### HiD Baseline Analysis
+
 - Form silhouette (background subtraction +)
 - Detect gait periods
 - Frame Similarity between centered Silhouettes
+
 Frame Similarity $=\frac{\text { Number of pixels in intersections }}{\text { Number of pixels in Unions }}$
+
 - Estimate correlation of frame similarity between probe and gallery sequences
 - Similarity is median of max. correlation between gallery and probe sequences
 

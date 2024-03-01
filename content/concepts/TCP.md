@@ -1,10 +1,10 @@
-[[Transport Layer|Link]] - [[Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md#^GAWmpSqL|PDF Location]]
+[[Transport Layer|Link]]
 
-![[Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md#^area=x3eLeaUVaKXiPr6nDJpxG]]
+![[Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md#^area=x3eLeaUVaKXiPr6nDJpxG|600]]
 
 # TCP Connection Establishment
 
-[[Transport Layer|Link]] - [[Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md#^mrlqZdMe|PDF Location]]
+[[Transport Layer|Link]]
 
-![[Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md#^area=b9zEWzA_o5pw5DEI6VMip]]
+![[Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md#^area=b9zEWzA_o5pw5DEI6VMip|600]]
 

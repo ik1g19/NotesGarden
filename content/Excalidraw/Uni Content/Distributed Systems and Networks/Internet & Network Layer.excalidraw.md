@@ -36,6 +36,10 @@ Virtual LANs ^Rt0ceeBX
 
 Ethernet Frame Priority ^NZX8KqDK
 
+[[ARP]] ^7fGfpqBE
+
+[[CIDR]] ^cYNMXMuW
+
 
 # Embedded files
 571b322ff2c6db86719d13d44944cddd1e3ddcdb: [[Distributed Systems and Networks.pdf#page=7]]
@@ -1333,6 +1337,93 @@ f9659246d72f379ba29202b042233266845483b2: [[Distributed Systems and Networks.pdf
 			"updated": 1709300877184,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 153,
+			"versionNonce": 1291610524,
+			"isDeleted": false,
+			"id": "RtTlOGpHE3ud01jFOda_9",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1187.298245614035,
+			"y": 837.4555921052629,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"width": 534.736842105263,
+			"height": 271.57894736842104,
+			"seed": 53689756,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1709307719255,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "cYNMXMuW",
+			"type": "rectangle",
+			"x": -2520.7631578947357,
+			"y": 357.8854166666665,
+			"width": 551.578947368421,
+			"height": 336.8421052631579,
+			"angle": 0,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1043083804,
+			"version": 166,
+			"versionNonce": 588043428,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709309564123,
+			"link": "[[CIDR]]",
+			"locked": false
+		},
+		{
+			"id": "7fGfpqBE",
+			"type": "rectangle",
+			"x": -1853.7344497607637,
+			"y": 526.083183811802,
+			"width": 546.6666666666665,
+			"height": 521.3333333333335,
+			"angle": 0,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 308000548,
+			"version": 153,
+			"versionNonce": 1251009948,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709309553168,
+			"link": "[[ARP]]",
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1350,10 +1441,10 @@ f9659246d72f379ba29202b042233266845483b2: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3050.352092352098,
-		"scrollY": 2227.3075227723643,
+		"scrollX": 2860.4011164274307,
+		"scrollY": -105.39568381180197,
 		"zoom": {
-			"value": 0.25
+			"value": 0.7499999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
