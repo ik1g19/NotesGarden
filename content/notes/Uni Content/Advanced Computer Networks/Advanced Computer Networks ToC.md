@@ -31,5 +31,5 @@ title: "Advanced Computer Networks ToC"
 ---
 # **Week 9**
 #### 🔵[[notes/Uni Content/Advanced Computer Networks/Week 9/Bluetooth|Bluetooth]]🦷
-#### 🔒[[notes/Uni Content/Advanced Computer Networks/Week 9/Network Security|Network Security]]🕸
+#### 🔒[[Network Security (Advanced Computer Networks)|Network Security (Advanced Computer Networks)]]🕸
 #### 👀[[notes/Uni Content/Advanced Computer Networks/Week 9/Network Monitoring|Network Monitoring]]

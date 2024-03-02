@@ -69,7 +69,7 @@ title: "Distributed Systems and Networks"
 	- P39. Tunnelling
 	- P39 Dual Stack Lite
 	- P40. Barriers to Deployment
-- P40. Application Layer Protocols
+- P40. [[Application Layer Protocols]]
 	- P40. DHCP
 	- P40. Telnet
 	- P41. Simple Mail Transfer Protocol
@@ -82,7 +82,7 @@ title: "Distributed Systems and Networks"
 		- P43. SMB
 		- P43. NFS
 		- P43. P2P
-- P45. Network Security
+- P45. [[Network Security (Distributed Systems and Networks)|Network Security]]
 	- P45. DNS Exploitation
 	- P46. DNS Privacy
 	- P46. DNS Security Extensions
@@ -106,9 +106,9 @@ title: "Distributed Systems and Networks"
 	- P54. Slow LORIS
 	- P54. IPv6 RA Flood
 	- P55. DDoS Mitigation
-	- P55. MQTT and CoAP
-		- P57. CoAP Header
-		- P57. Resource Discovery
+- P55. MQTT and CoAP
+	- P57. CoAP Header
+	- P57. Resource Discovery
 - P58. Characteristics of Distributed Systems
 	- P58. Cloud Computing
 	- P59. Big Data

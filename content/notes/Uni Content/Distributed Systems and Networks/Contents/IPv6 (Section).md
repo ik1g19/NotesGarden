@@ -1,3 +1,5 @@
+![[IPv6.excalidraw.png|600]]
+
 # Concepts
 
 - [[IPv4]]
