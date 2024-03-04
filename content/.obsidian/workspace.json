@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "15ead28f220746f7",
+        "type": "tabs",
+        "dimension": 25.190355329949238,
+        "children": [
+          {
+            "id": "e4b83806f8a05316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "4eb0ebf1e3357c93",
         "type": "tabs",
+        "dimension": 74.80964467005076,
         "children": [
           {
             "id": "4d463e2b3af1f53c",
@@ -20,26 +40,12 @@
             }
           },
           {
-            "id": "a30640c880c01d8a",
+            "id": "a1e794758d5749d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "concepts/TCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cfe7d9105933c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md"
               }
             }
           }
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/TCP.md",
+                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/TCP.md",
+                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/TCP.md"
+                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md"
               }
             }
           }
@@ -172,12 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a30640c880c01d8a",
+  "active": "a1e794758d5749d3",
   "lastOpenFiles": [
     "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
     "concepts/TCP.md",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.png",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.png",
     "_index.md",
     "notes/Uni Content/Advanced Computer Networks/Advanced Computer Networks ToC.md",
@@ -187,12 +195,10 @@
     "concepts/CoAP.md",
     "concepts/DHCP.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Application Layer Protocols.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
     "Excalidraw/cropped_Transport Layer.excalidraw.md",
     "Excalidraw/cropped_Transport Layer.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.png",
     "Pasted image 20240301175747.png",
     "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
     "concepts/SLAAC.md",
