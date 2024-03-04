@@ -106,17 +106,17 @@ title: "Distributed Systems and Networks"
 	- P54. Slow LORIS
 	- P54. IPv6 RA Flood
 	- P55. DDoS Mitigation
-- P55. MQTT and CoAP
+- P55. [[MQTT and CoAP (Distributed Systems & Networks)|MQTT & CoAP]]
 	- P57. CoAP Header
 	- P57. Resource Discovery
-- P58. Characteristics of Distributed Systems
+- P58. [[Characteristics of Distributed Systems]]
 	- P58. Cloud Computing
 	- P59. Big Data
 	- P59. Decentralized Networks
 	- P59. internet of Things (IoT)
 	- P60. Edge and Fog Computing
 	- P60. Challenges of Distributed Systems
-	- P62. Distributed Algorithms
+- P62. [[Distributed Algorithms & Clocks]]
 	- P64. Synchronous and Asynchronous
 	- P64. Time in Distributed Systems
 	- P65. Clock Synchronizations

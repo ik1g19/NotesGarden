@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15ead28f220746f7",
+        "id": "f7f82a077d10905f",
         "type": "tabs",
-        "dimension": 25.190355329949238,
         "children": [
           {
             "id": "e4b83806f8a05316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4eb0ebf1e3357c93",
-        "type": "tabs",
-        "dimension": 74.80964467005076,
-        "children": [
-          {
-            "id": "4d463e2b3af1f53c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,12 +20,24 @@
             }
           },
           {
-            "id": "a1e794758d5749d3",
+            "id": "06acbefc304d358a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "129554f7c28d5f72",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md"
+                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md"
               }
             }
           }
@@ -116,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md"
               }
             }
           }
@@ -178,16 +170,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1e794758d5749d3",
+  "active": "06acbefc304d358a",
   "lastOpenFiles": [
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.png",
+    "_index.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/MQTT and CoAP (Distributed Systems & Networks).md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.png",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
+    "notes/Uni Content/Advanced Computer Networks/Week 3/MQTT and COAP.md",
     "concepts/TCP.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.png",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.png",
-    "_index.md",
     "notes/Uni Content/Advanced Computer Networks/Advanced Computer Networks ToC.md",
     "notes/Uni Content/Advanced Computer Networks/Week 9/Network Security (Advanced Computer Networks).md",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
@@ -203,17 +205,7 @@
     "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
     "concepts/SLAAC.md",
     "concepts/Dual Stack Lite.md",
-    "concepts/IPv6.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md",
-    "concepts/CIDR.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
-    "concepts/ARP.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
-    "concepts/Event Dispatch Chain.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/C Programming.excalidraw.png",
-    "Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.png"
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.png"
   ]
 }
