@@ -1,7 +1,6 @@
 ---
 title: "Traits in Rust"
 ---
-
 # What is a Trait
 
 A trait is a way of grouping method/function signatures together and providing and to define their behaviours.

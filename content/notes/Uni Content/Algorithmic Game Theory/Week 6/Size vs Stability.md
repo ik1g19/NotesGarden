@@ -44,17 +44,21 @@ Minimisation problem is NP-hard too, for similar restrictions
 - $A$ has performance guarantee $c$, for some $c>1$ if
 - $|A(I)| \leq c$.opt(I) for any instance $I$ (in the case of a minimisation problem)
 - $|A(I)| \geq(1 / c)$. opt $(I)$ for any instance $I$ (in the case of a maximisation problem)
-where opt(I) is the measure of an optimal solution and $|A(I)|$ the size of the solution produced by $A$.
+
+where opt(I) is the measure of an optimal solution and $|A(I)|$ the size of the solution produced by $A$
+
 We say that $A$ is a c-approximation algorithm for this problem.
 
 ## Kiraly's $\frac{3}{2}$ - approximation for MAX SMTI
 
 ### Leader Oriented Version
+
 Extension of Gale-Shapely
 
 When a leader is rejected by all followers in his list, he is given a second chance
 
 #### Preferences
+
 For a leader $l$, and for two followers $f_i$ and $f_j$, we say that $l$ prefers $f_i$ to $f_j$ if
 1. either he prefers $f_i$ in the usual sense
 2. or he is indifferent between the two, $f_j$ is engaged and $f_i$ is free.
@@ -63,6 +67,7 @@ For a follower $\mathrm{f}$, and for two leaders $l_{\mathrm{i}}$ and $l_{\mathr
 2. or she is indifferent between the two, $l_{\mathrm{i}}$ has a second chance (he is proposing to the followers in his list for the $2^{\text {nd }}$ time) and $l_j$ does not (he is proposing to the followers in his list for the $1^{\text {st }}$ time)
 
 #### Proposals and rejections
+
 An assigned follower $f$ accepts a new proposal from a leader $l$, and rejects her current partner $l_{\mathrm{k}}$, if
 1. either she prefers $l$ to her current partner, according to her new definition of prefers
 2. or her current partner prefers some follower to $f$, again according to his new definition of prefers. (In this case we call $\mathrm{f}$ precarious.)
@@ -70,6 +75,7 @@ An assigned follower $f$ accepts a new proposal from a leader $l$, and rejects h
 When a follower $f$ rejects a leader $l$, and she is not precarious, $l$ and $f$ are deleted from each others' lists
 
 ### Dominant-Strategy Truthfulness
+
 Is Kiraly's algorithm DS truthful?
 - No. (Recall Roth's impossibility theorem)
 

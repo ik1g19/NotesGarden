@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+                "file": "notes/Other Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "web services",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+                "file": "notes/Other Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+                "file": "notes/Other Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md"
+                "file": "notes/Other Content.md"
               }
             }
           }
@@ -149,51 +149,51 @@
   },
   "active": "129554f7c28d5f72",
   "lastOpenFiles": [
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md",
-    "notes/GPT Notes/Deep Learning/Deep Learning Starter Guide.md",
+    "notes/Uni Content/Machine Learning Technologies/Regression.md",
+    "notes/Uni Content/Advanced Databases/Week 1.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 8/Traits in Rust.md",
+    "DBMS.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Advanced Programming Language Concepts ToC.md",
+    "notes/Uni Content/Advanced Programming Language Concepts/Week 8/Software Composition.md",
+    "notes/Uni Content/Software Security/Software Security ToC.md",
+    "notes/Uni Content/Software Security/Week 8/Reverse Engineering 1.md",
+    "notes/Uni Content/Software Security/Week 8/Reverse Engineering 2.md",
+    "notes/Uni Content/Software Security/Week 1/Software Vulnerabilities.md",
+    "notes/Uni Content/Software Security/Week 7/Static and Dynamic Analysis.md",
+    "notes/templates/post.md",
+    "notes/Other Content.md",
+    "_index.md",
+    "notes/Uni Content/Machine Learning Technologies/MLT ToC.md",
+    "notes/Useful Links.md",
+    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+    "notes/Uni Content/Advanced Computer Networks/Advanced Computer Networks ToC.md",
+    "concepts/SOAP.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Web Services.md",
+    "notes/Uni Content/Advanced Computer Networks/Week 3/MQTT and COAP.md",
+    "notes/Uni Content/Advanced Computer Networks/Week 4/IPv6 Deployment and Transition.md",
+    "notes/Uni Content/Advanced Computer Networks/Week 6/IEEE 802.11_ Wi-Fi.md",
+    "concepts/RESTful.md",
+    "Excalidraw/cropped_Distributed Systems and Networks.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Reliable and Ordered Multicast.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Leader Election.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Remote Invocation.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Mutual Exclusion.excalidraw.png",
+    "Excalidraw/Drawing 2024-03-05 16.19.43.excalidraw.png",
     "notes/GPT Notes/Deep Learning",
     "notes/GPT Notes",
-    "notes/Back End Development Questions/Vertical Scaling.md",
-    "notes/Back End Development Questions/Horizontal Scaling.md",
-    "notes/Back End Development Questions/Back End Development Questions.md",
     "notes/Back End Development Questions",
-    "notes/CV Notes from Audioscenic/CV Notes from Audioscenic.md",
     "notes/CV Notes from Audioscenic",
-    "notes/NodeJS Interview Questions/NodeJS Interview Questions.md",
     "notes/NodeJS Interview Questions",
-    "notes/System Theory/Images/Pasted image 20230714161429.png",
-    "notes/System Theory/Images/Pasted image 20230714161307.png",
-    "notes/System Theory/Images/Pasted image 20230714160931.png",
-    "notes/System Theory/Images/Pasted image 20230714154240.png",
-    "notes/System Theory/Images/Pasted image 20230714153035.png",
-    "notes/System Theory/Images/Pasted image 20230714151831.png",
-    "notes/System Theory/Images/Pasted image 20230714150604.png",
-    "notes/System Theory/Images/Pasted image 20230714145042.png",
-    "notes/System Theory/System Theory.md",
     "notes/System Theory/Images",
     "notes/System Theory",
-    "notes/NodeJS/Images/Screenshot from 2023-09-25 22-11-27.png",
-    "notes/NodeJS/Images/Pasted image 20230925220915.png",
-    "notes/NodeJS/NodeJS.md",
     "notes/NodeJS/Images",
     "notes/NodeJS",
-    "notes/My (Most) Useful Links.md",
-    "notes/Deep Learning with Pytorch Quickstart Notes/Deep Learning with Pytorch Quickstart Notes.md",
-    "notes/Deep Learning with Pytorch Quickstart Notes",
-    "notes/Front End Development Questions/Front End Development Questions.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 7/Sponsored Search Auctions.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 7/Secretary Problem.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 6/Size vs Stability.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 6/One-sided Matching with Initial Ownership.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 6/One-sided Matching Without Initial Ownership.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 5/Stable Roommates.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 5/Hospitals, Residents Problem.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 4/Stable Matching.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 4/Optimal Auctions.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 4/Extensions of Stable Matching Problem.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 3/Revelation Principle.md",
-    "notes/Uni Content/Algorithmic Game Theory/Week 3/Dominant Strategy Implementation.md"
+    "notes/Deep Learning with Pytorch Quickstart Notes"
   ]
 }

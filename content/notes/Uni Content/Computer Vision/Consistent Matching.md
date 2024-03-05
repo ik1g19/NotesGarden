@@ -78,11 +78,7 @@ Geometric Transforms change the content of an image by applying a mapping
 # Homogeneous Coordinates
 
 Coordinates are called homogeneous when they are modelled like this
-$$\begin{bmatrix}
-wx'\\
-wy'\\
-w
-\end{bmatrix}$$
+$$\begin{bmatrix}wx'\\wy'\\w\end{bmatrix}$$
 $$y'=v/w$$
 
 We normalise by w so that the transformed vector is $$\begin{bmatrix}

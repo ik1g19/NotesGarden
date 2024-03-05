@@ -69,7 +69,7 @@ In key-based algorithms, the secret is a key
 
 This almost makes reversing pointless because the algorithm is already known
 
-In order to decrypt an eccrypted message, you would have to either:
+In order to decrypt an ecrypted message, you would have to either:
 - Obtain the key
 - Try all possible keys until you get to the correct key
 - Look for a flaw in the algorithm that can be employed to extract the key or the original message

@@ -26,70 +26,6 @@ e9e401d66d55830c400a5190682b3e6782dec8a7: [[Distributed Systems and Networks.pdf
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 112,
-			"versionNonce": 1299334394,
-			"isDeleted": false,
-			"id": "h7EhjQ3J",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1022.5299145299145,
-			"y": -472.0940170940172,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 619,
-			"height": 950,
-			"seed": 1850,
-			"groupIds": [
-				"zLy2IFUP"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709579882420,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "image",
-			"version": 112,
-			"versionNonce": 261330362,
-			"isDeleted": false,
-			"id": "tQr6C5mn",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1037.734714418532,
-			"y": -449.8514141218077,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 649.4095997772348,
-			"height": 905.514794055581,
-			"seed": 32309,
-			"groupIds": [
-				"zLy2IFUP"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709579882420,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "8e39185db12d11e36afa7fff321c1ed054b20e21",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "rectangle",
 			"version": 1,
 			"versionNonce": 192750264,
 			"isDeleted": false,
@@ -232,7 +168,7 @@ e9e401d66d55830c400a5190682b3e6782dec8a7: [[Distributed Systems and Networks.pdf
 			"y": -778.6963914991262,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1336.466064453125,
+			"width": 1336.5635986328125,
 			"height": 201.36363636363643,
 			"seed": 433586342,
 			"groupIds": [],
@@ -255,8 +191,74 @@ e9e401d66d55830c400a5190682b3e6782dec8a7: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 78,
-			"versionNonce": 207417210,
+			"version": 113,
+			"versionNonce": 114643023,
+			"isDeleted": false,
+			"id": "h7EhjQ3J",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1022.5299145299145,
+			"y": -472.0940170940172,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 619,
+			"height": 950,
+			"seed": 1850,
+			"groupIds": [
+				"zLy2IFUP",
+				"v07pNTahgfcSV23JXE3l6"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709665673800,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "image",
+			"version": 113,
+			"versionNonce": 2015485985,
+			"isDeleted": false,
+			"id": "tQr6C5mn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1037.734714418532,
+			"y": -449.8514141218077,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 649.4095997772348,
+			"height": 905.514794055581,
+			"seed": 32309,
+			"groupIds": [
+				"zLy2IFUP",
+				"v07pNTahgfcSV23JXE3l6"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1709665673800,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8e39185db12d11e36afa7fff321c1ed054b20e21",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 79,
+			"versionNonce": 2072276591,
 			"isDeleted": false,
 			"id": "ZSshjXN93PH-8lZzvn3Jd",
 			"fillStyle": "solid",
@@ -272,13 +274,15 @@ e9e401d66d55830c400a5190682b3e6782dec8a7: [[Distributed Systems and Networks.pdf
 			"width": 727.6923076923077,
 			"height": 510.76923076923083,
 			"seed": 1073491386,
-			"groupIds": [],
+			"groupIds": [
+				"v07pNTahgfcSV23JXE3l6"
+			],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1709579904078,
+			"updated": 1709665673800,
 			"link": null,
 			"locked": false
 		}
@@ -298,10 +302,10 @@ e9e401d66d55830c400a5190682b3e6782dec8a7: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1246.7677940934198,
-		"scrollY": 942.3062619888794,
+		"scrollX": 1160.2842776099033,
+		"scrollY": 831.4777935822859,
 		"zoom": {
-			"value": 0.65
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

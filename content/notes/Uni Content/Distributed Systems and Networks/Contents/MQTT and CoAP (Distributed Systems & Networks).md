@@ -1,8 +1,9 @@
-![[MQTT and CoAP (Distributed Systems & Networks).excalidraw.png]]
+![[MQTT and CoAP (Distributed Systems & Networks).excalidraw.png|600]]
 
 # Concepts
 
-
+- [[MQTT]]
+- [[CoAP]]
 
 # Contents
 

@@ -2,33 +2,6 @@
 title: Notes
 enableToc: false
 ---
-
-# Useful Links
-
-#### [[My (Most) Useful Links]]
-
-# Workshops
-
-#### [[notes/CV Notes from Audioscenic/CV Notes from Audioscenic|CV Notes from Audioscenic]]
-
-# Books
-
-#### [[notes/Deep Learning with Pytorch Quickstart Notes/Deep Learning with Pytorch Quickstart Notes|Deep Learning with Pytorch Quickstart Notes]]
-
-# Courses
-
-#### [NodeJS](notes/NodeJS/NodeJS.md)
-
-# Interview Notes
-
-#### [NodeJS Interview Questions](NodeJS%20Interview%20Questions.md)
-
-#### [[C Sharp and Dot Net Interview Concepts]]
-
-#### [[Front End Development Questions]]
-
-#### [[Back End Development Questions]]
-
 # University Notes
 
 ## General Modules
@@ -83,7 +56,7 @@ enableToc: false
 
 ## Year 4
 
-#### [[notes/Uni Content/Advanced Programming Language Concepts/Advanced Programming Language Concepts ToC|Advanced Programming Langauge Concepts]] 
+#### [[notes/Uni Content/Advanced Programming Language Concepts/Advanced Programming Language Concepts ToC|Advanced Programming Language Concepts]] 
 
 #### [[notes/Uni Content/Algorithmic Game Theory/Algorithmic Game Theory ToC|Algorithmic Game Theory]]
 
@@ -92,3 +65,8 @@ enableToc: false
 #### [[notes/Uni Content/Intelligent Agents/Intelligent Agents ToC|Intelligent Agents]]
 
 #### [[notes/Uni Content/Software Security/Software Security ToC|Software Security]] 
+
+
+# Other Content
+
+[[Other Content]]

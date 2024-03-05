@@ -42,6 +42,7 @@ A covariance of 0 means the variables are uncorrelated
 # Covariance Matrix
 
 Encodes how all possible pairs of dimensions in an n-dimensional data set vary together
+
 $$\Sigma=\begin{bmatrix}\sigma(X_1,X_1) & \sigma(X_1,X_2) & ... & \sigma(X_1,X_n)\\\sigma(X_2,X_1) & \sigma (X_2,X_2) & ... & \sigma(X_2,X_n)\\... &... & ... & ...\\\sigma(X_n,X_1) & \sigma(X_n,X_2) & ... & \sigma(X_n,X_n)\end{bmatrix}$$
 
 The covariance matrix is a square symmetric matrix

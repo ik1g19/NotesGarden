@@ -50,12 +50,9 @@ Weighted average change in intensity between a window and a shifted version by $
 
 ![|200](https://remnote-user-data.s3.amazonaws.com/Je6Z478m9wLorS8b1OY40dESQjYfAdoqFGTA1vj-AV3e3jL-g_ng4HJdWl_65kC0_4G9N7ouOg4cPr_ZiMBd5SvYcRfpLNmYBwqfjpSVdc3z0qErPpVuqXrAdutUTxpt.png) 
 
-The square symmetric matrix $\textbf{M}$ is called the Structure Tensor or the Second Moment Matrix 
-$$\textbf{M}=\begin{bmatrix}
-\sum_W(I_x(x_i,y_i))^2 & \sum_WI_x(x_i,y_i)I_y(x_i,y_i))\\
-\sum_WI_x(x_i,y_i)I_y(x_i,y_i) & 
-\sum_W(I_y(x_i,y_i))^2
-\end{bmatrix}$$
+The square symmetric matrix $\textbf{M}$ is called the Structure Tensor or the Second Moment Matrix
+
+$$\textbf{M}=\begin{bmatrix}\sum_W(I_x(x_i,y_i))^2 & \sum_WI_x(x_i,y_i)I_y(x_i,y_i))\\\sum_WI_x(x_i,y_i)I_y(x_i,y_i) & \sum_W(I_y(x_i,y_i))^2\end{bmatrix}$$
 - The eigenvalues and vectors tell us the rates of change and their respective directions
 - It concisely encodes how the local shape intensity function of the window changes with small shifts
 - As with the 2d covariance matrix, the structure tensor describes an ellipse
@@ -65,27 +62,11 @@ $$\textbf{M}=\begin{bmatrix}
 The Taylor expansion allows us to approximate the shifted intensity
 
 We can substitute and simplify the previous equation to
-$$\begin{bmatrix}
-\Delta x & \Delta y\\
-\end{bmatrix}
-\textbf{M}
-\begin{bmatrix}
-\Delta x\\
-\Delta y\\
-\end{bmatrix} 
-- \begin{bmatrix}
-\Delta x & \Delta y\\
-\end{bmatrix}
-\begin{bmatrix}
-\sum_W(I_x(x_i,y_i))^2 & \sum_WI_x(x_i,y_i)I_y(x_i,y_i))\\
-\sum_WI_x(x_i,y_i)I_y(x_i,y_i) & 
-\sum_W(I_y(x_i,y_i))^2
-\end{bmatrix}
-\begin{bmatrix}
-\Delta x\\
-\Delta y\\
-\end{bmatrix} $$
+
+$$\begin{bmatrix}\Delta x & \Delta y\\\end{bmatrix}\textbf{M}\begin{bmatrix}\Delta x\\\Delta y\\\end{bmatrix} - \begin{bmatrix}\Delta x & \Delta y\\\end{bmatrix}\begin{bmatrix}\sum_W(I_x(x_i,y_i))^2 & \sum_WI_x(x_i,y_i)I_y(x_i,y_i))\\\sum_WI_x(x_i,y_i)I_y(x_i,y_i) & \sum_W(I_y(x_i,y_i))^2\end{bmatrix}\begin{bmatrix}\Delta x\\\Delta y\\\end{bmatrix} $$
+
 $$E(x,y)=\sum\limits_Wf(x_i,y_i)[I(x_i,y_i)-I(x_i+\Delta x,y_i+\Delta y)]^2$$
+
 Where
 - $I(x_i,y_i)$ - Intensity in window
 - $f(x_i,y_i)$ - Weighting function
@@ -127,6 +108,7 @@ Gaussian scale space is defined as
 
 ![|400](https://remnote-user-data.s3.amazonaws.com/GHenUWytFRU2JFwkYgkxaF_CemFSDlRj9nVGWfXFy359y6Bruf4mNb4IGJglWhBJs3uwaIv2fw3txINTudvcIxJ0QlSApvJ1of5_UvUZ-4F0j8mTU5pr1Axwwqrgq7MU.png)
 $$L(\cdot,\cdot,;t)=g(\cdot,\cdot;t)*f(\cdot,\cdot)$$
+
 Where
 - $g(\cdot,\cdot;t)*f(\cdot,\cdot)$ - A convolution of the gaussian with parameter t over the image $f(\cdot,\cdot)$
 - $L(\cdot,\cdot,;t)$ - A set of images

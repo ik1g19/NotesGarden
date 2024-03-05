@@ -1,7 +1,6 @@
 ---
 title: "Reverse Engineering 1"
 ---
-
 # What is Reverse Engineering
 
 - Taking an existing program for which source-code or proper documentation is not available

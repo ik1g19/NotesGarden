@@ -2,6 +2,9 @@
 
 # Concepts
 
+- [[Edge Computing]]
+- [[Internet of Things]]
+
 # Contents
 
 [[Characteristics of Distributed Systems.excalidraw|Excalidraw]]

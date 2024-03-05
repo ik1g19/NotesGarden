@@ -118,7 +118,7 @@ title: "Distributed Systems and Networks"
 	- P60. Challenges of Distributed Systems
 - P62. [[Distributed Algorithms & Clocks]]
 	- P64. Synchronous and Asynchronous
-	- P64. Time in Distributed Systems
+	- P64. Time in Distributed Systemss
 	- P65. Clock Synchronizations
 	- P65. Synchronization Algorithms
 	- P66. Cristian's Algorithm
@@ -131,7 +131,7 @@ title: "Distributed Systems and Networks"
 		- P69. Implementation of Logical Clocks
 		- P70. Vector Clocks
 		- P71. Vector Clock Implementation
-- P72. Physical, Architectural and Fundamental Models
+- P72. [[Physical, Architectural and Fundamental Models]]
 	- P72. Physical Models
 	- P73. Architectural Models
 	- P74. Architectural Elements
@@ -148,7 +148,7 @@ title: "Distributed Systems and Networks"
 	- P81. Interaction Model
 	- P83. Failure Models
 	- P85. Security Model
-- P87. Distributed Mutual Exclusion
+- P87. [[Distributed Mutual Exclusion]]
 	- P87. Failure Assumptions
 	- P87. Failure Detectors
 	- P88. Distributed Mutual Exclusion Protocols
@@ -158,25 +158,25 @@ title: "Distributed Systems and Networks"
 	- P95. Mackawa's Algorithm
 	- P96. Mackawa's Voting Algorithm
 	- P98. Fault Tolerance
-	- P99. Remote Invocation
+- P99. [[Remote Invocation (Section)|Remote Invocation]]
 	- P101. Remote Procedure Call (RPC)
 	- P102. Design Issues for RPC
 		- P102. RPC Call Semantics
 	- P103. Remote Method Invocation (RMC)
-- P106. Web Services
+- P106. [[Web Services]]
 	- P106. Web Service Layers
 	- P107. SOAP Protocol
 	- P108. SOAP Messages
 	- P109. RESTful Web Services
-	- P111. Leader Election
-		- P113. Ring-Based Algorithm
-		- P115. Bully Election Algorithm
-- P119. Distributed Transactions
+- P111. [[Leader Election]]
+	- P113. Ring-Based Algorithm
+	- P115. Bully Election Algorithm
+- P119. [[Distributed Transactions]]
 	- P121. Conflicting Operations
 	- P121. Concurrency Controls
 	- P122. Recoverability from Aborts
 	- P123. Two Phase Commit Protocol (2PC)
-	- P125. Reliable and Ordered Multicast
+- P125. [[Reliable and Ordered Multicast]]
 	- P127. Basic Multicast
 	- P127. Atomic Basic Multicast
 	- P127. Reliable Multicast
