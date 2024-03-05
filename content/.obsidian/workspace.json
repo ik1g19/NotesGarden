@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4b83806f8a05316",
+            "id": "129554f7c28d5f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "06acbefc304d358a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "129554f7c28d5f72",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md"
               }
             }
           }
@@ -170,42 +147,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06acbefc304d358a",
+  "active": "129554f7c28d5f72",
   "lastOpenFiles": [
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.png",
-    "_index.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/MQTT and CoAP (Distributed Systems & Networks).md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.png",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
-    "notes/Uni Content/Advanced Computer Networks/Week 3/MQTT and COAP.md",
-    "concepts/TCP.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.png",
-    "notes/Uni Content/Advanced Computer Networks/Advanced Computer Networks ToC.md",
-    "notes/Uni Content/Advanced Computer Networks/Week 9/Network Security (Advanced Computer Networks).md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Application Layer Protocols.excalidraw.md",
-    "concepts/CoAP.md",
-    "concepts/DHCP.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Application Layer Protocols.excalidraw.png",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
-    "Excalidraw/cropped_Transport Layer.excalidraw.md",
-    "Excalidraw/cropped_Transport Layer.excalidraw.png",
-    "Pasted image 20240301175747.png",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
-    "concepts/SLAAC.md",
-    "concepts/Dual Stack Lite.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.png"
+    "notes/GPT Notes/Deep Learning/Deep Learning Starter Guide.md",
+    "notes/GPT Notes/Deep Learning",
+    "notes/GPT Notes",
+    "notes/Back End Development Questions/Vertical Scaling.md",
+    "notes/Back End Development Questions/Horizontal Scaling.md",
+    "notes/Back End Development Questions/Back End Development Questions.md",
+    "notes/Back End Development Questions",
+    "notes/CV Notes from Audioscenic/CV Notes from Audioscenic.md",
+    "notes/CV Notes from Audioscenic",
+    "notes/NodeJS Interview Questions/NodeJS Interview Questions.md",
+    "notes/NodeJS Interview Questions",
+    "notes/System Theory/Images/Pasted image 20230714161429.png",
+    "notes/System Theory/Images/Pasted image 20230714161307.png",
+    "notes/System Theory/Images/Pasted image 20230714160931.png",
+    "notes/System Theory/Images/Pasted image 20230714154240.png",
+    "notes/System Theory/Images/Pasted image 20230714153035.png",
+    "notes/System Theory/Images/Pasted image 20230714151831.png",
+    "notes/System Theory/Images/Pasted image 20230714150604.png",
+    "notes/System Theory/Images/Pasted image 20230714145042.png",
+    "notes/System Theory/System Theory.md",
+    "notes/System Theory/Images",
+    "notes/System Theory",
+    "notes/NodeJS/Images/Screenshot from 2023-09-25 22-11-27.png",
+    "notes/NodeJS/Images/Pasted image 20230925220915.png",
+    "notes/NodeJS/NodeJS.md",
+    "notes/NodeJS/Images",
+    "notes/NodeJS",
+    "notes/My (Most) Useful Links.md",
+    "notes/Deep Learning with Pytorch Quickstart Notes/Deep Learning with Pytorch Quickstart Notes.md",
+    "notes/Deep Learning with Pytorch Quickstart Notes",
+    "notes/Front End Development Questions/Front End Development Questions.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 7/Sponsored Search Auctions.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 7/Secretary Problem.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 6/Size vs Stability.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 6/One-sided Matching with Initial Ownership.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 6/One-sided Matching Without Initial Ownership.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 5/Stable Roommates.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 5/Hospitals, Residents Problem.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 4/Stable Matching.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 4/Optimal Auctions.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 4/Extensions of Stable Matching Problem.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 3/Revelation Principle.md",
+    "notes/Uni Content/Algorithmic Game Theory/Week 3/Dominant Strategy Implementation.md"
   ]
 }
