@@ -1,4 +1,4 @@
-![[Web Services.excalidraw.png|600]]
+![[Web Services.excalidraw.png]]
 
 # Concepts
 
