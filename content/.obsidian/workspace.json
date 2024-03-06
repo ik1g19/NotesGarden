@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+                "file": "concepts/SOAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+                "file": "concepts/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+                "file": "concepts/SOAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md"
+                "file": "concepts/SOAP.md"
               }
             }
           }
@@ -149,9 +149,29 @@
   },
   "active": "86ea0903466f2e6b",
   "lastOpenFiles": [
-    "concepts/IPv6.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/SOAP Web Services CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/SOAP Web Services CROP.excalidraw.png",
+    "concepts/SOAP.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Web Services.md",
+    "Excalidraw/cropped_Web Services.excalidraw.png",
+    "concepts/Remote Procedure Call.md",
+    "concepts/MAC.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/MAC Internet and Network Layer CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/MAC Internet and Network Layer CROP.excalidraw.png",
+    "Excalidraw/cropped_Internet & Network Layer.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/MAC Physical and Link Layers CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/MAC Physical and Link Layers CROP.excalidraw.png",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
+    "Excalidraw/cropped_Physical and Link Layers.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/CIDR I & NL CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Connection Establishment CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/UDP Transport Layer CROP.excalidraw.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6 Features CROP.excalidraw.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+    "concepts/IPv6.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6 Features CROP.excalidraw.png",
     "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md",
     "Excalidraw/cropped_IPv6.excalidraw.png",
@@ -161,29 +181,9 @@
     "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
     "concepts/UDP.md",
     "concepts/Sliding Window.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/UDP Transport Layer CROP.excalidraw.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/UDP Transport Layer CROP.excalidraw.png",
     "Excalidraw/cropped_Transport Layer.excalidraw.png",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md",
-    "concepts/TCP.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer CROP.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Connection Establishment CROP.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Connection Establishment CROP.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer CROP.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer.excalidraw.png",
-    "_index.md",
-    "concepts/CIDR.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/CIDR I & NL CROP.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/CIDR I & NL CROP.excalidraw.png",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
-    "Excalidraw/cropped_Internet & Network Layer.excalidraw.png",
-    "notes/Uni Content/Programming 2/Programming 2 ToC.md",
-    "notes/Uni Content/Programming 2/Contents/Iteration and Streaming in Java.md",
-    "notes/Uni Content/Programming 2/Contents/C Programming.md",
-    "notes/Uni Content/Programming 2/Contents/Software Testing and Unit Testing.md",
-    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
-    "Excalidraw/cropped_Distributed Systems and Networks.png",
     "notes/GPT Notes/Deep Learning",
     "notes/GPT Notes",
     "notes/Back End Development Questions",

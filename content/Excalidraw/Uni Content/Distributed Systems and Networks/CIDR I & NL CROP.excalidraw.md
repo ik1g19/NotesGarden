@@ -1,11 +1,10 @@
 ---
-
 excalidraw-mask: true
 excalidraw-export-dark: false
 excalidraw-export-padding: 0
 excalidraw-export-transparent: true
 excalidraw-plugin: parsed
-
+draft: "true"
 ---
 # Text Elements
 [[Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md]] ^h1jVPdbu

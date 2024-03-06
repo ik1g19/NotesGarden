@@ -630,35 +630,6 @@ fe4b1a8e2e926b13faf00ef9527e96ab90a91c1a: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 179,
-			"versionNonce": 23233999,
-			"isDeleted": false,
-			"id": "0HKmmb1UKJv_bp2Sp-g-d",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -916.1618717836934,
-			"y": -70.30251205691314,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
-			"width": 558.4380326127542,
-			"height": 291.32000096170964,
-			"seed": 1571568993,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1709670384275,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
 			"version": 3623,
 			"versionNonce": 2088922479,
 			"isDeleted": false,
@@ -714,6 +685,35 @@ fe4b1a8e2e926b13faf00ef9527e96ab90a91c1a: [[Distributed Systems and Networks.pdf
 			"updated": 1709670387837,
 			"link": null,
 			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 181,
+			"versionNonce": 693594089,
+			"isDeleted": true,
+			"id": "0HKmmb1UKJv_bp2Sp-g-d",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -922.8285384503602,
+			"y": -70.30251205691314,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"width": 558.4380326127542,
+			"height": 291.32000096170964,
+			"seed": 1571568993,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1709690476085,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -731,10 +731,10 @@ fe4b1a8e2e926b13faf00ef9527e96ab90a91c1a: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1228.9332769640755,
-		"scrollY": 539.7962236799476,
+		"scrollX": 2286.482905982906,
+		"scrollY": 3422.6800213675206,
 		"zoom": {
-			"value": 0.9500000000000001
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

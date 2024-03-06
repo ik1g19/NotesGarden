@@ -450,9 +450,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2207,
-			"versionNonce": 1462434091,
-			"isDeleted": false,
+			"version": 2208,
+			"versionNonce": 1916167017,
+			"isDeleted": true,
 			"id": "eUshJ298FAnbmnji1G0Ej",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -475,7 +475,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690082010,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -496,9 +496,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2237,
-			"versionNonce": 1073529605,
-			"isDeleted": false,
+			"version": 2238,
+			"versionNonce": 1029874599,
+			"isDeleted": true,
 			"id": "-v-Eu4RfbqHrbnKiK9d37",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -521,7 +521,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690082010,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -542,9 +542,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2136,
-			"versionNonce": 1567136715,
-			"isDeleted": false,
+			"version": 2137,
+			"versionNonce": 977800777,
+			"isDeleted": true,
 			"id": "V1kgFajWD4RLPGWi4h1cl",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -565,15 +565,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690082010,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2838,
-			"versionNonce": 2144868965,
-			"isDeleted": false,
+			"version": 2839,
+			"versionNonce": 501076231,
+			"isDeleted": true,
 			"id": "ZcMZRX1liD5Ylr_nTJkWv",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -596,7 +596,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690082773,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -617,9 +617,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2849,
-			"versionNonce": 488172139,
-			"isDeleted": false,
+			"version": 2850,
+			"versionNonce": 342419177,
+			"isDeleted": true,
 			"id": "niKhQ4SsmfLM2mVWmQts5",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -642,7 +642,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690082773,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -663,9 +663,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2768,
-			"versionNonce": 219252165,
-			"isDeleted": false,
+			"version": 2769,
+			"versionNonce": 1881937959,
+			"isDeleted": true,
 			"id": "JxZdQwixYGQ0qVAfYyYWS",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -686,15 +686,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690082773,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1887,
-			"versionNonce": 721839371,
-			"isDeleted": false,
+			"version": 1888,
+			"versionNonce": 1853199751,
+			"isDeleted": true,
 			"id": "EbL--Qqor6ImQf4ib5cun",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -717,7 +717,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690083693,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -738,9 +738,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 1917,
-			"versionNonce": 986088741,
-			"isDeleted": false,
+			"version": 1918,
+			"versionNonce": 226339433,
+			"isDeleted": true,
 			"id": "hSLO0B3cas6Zf8hWi3PD9",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -763,7 +763,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690083693,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -784,9 +784,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 1818,
-			"versionNonce": 514558891,
-			"isDeleted": false,
+			"version": 1819,
+			"versionNonce": 1381452967,
+			"isDeleted": true,
 			"id": "mqr-bFSO7muobNpMBQQu0",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -807,15 +807,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690083693,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2079,
-			"versionNonce": 476354693,
-			"isDeleted": false,
+			"version": 2080,
+			"versionNonce": 1798016743,
+			"isDeleted": true,
 			"id": "J-bUUGD_2Bg7X2HKdDlSG",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -838,7 +838,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690084646,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -859,9 +859,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2090,
-			"versionNonce": 1009966667,
-			"isDeleted": false,
+			"version": 2091,
+			"versionNonce": 1514567433,
+			"isDeleted": true,
 			"id": "MkgWjSCD1Bo9tUiWOZhZ6",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -884,7 +884,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690084646,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -905,9 +905,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2011,
-			"versionNonce": 2074689509,
-			"isDeleted": false,
+			"version": 2012,
+			"versionNonce": 751245831,
+			"isDeleted": true,
 			"id": "zg_bxrepS25ZJlV-fjV3i",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -928,15 +928,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690084646,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2259,
-			"versionNonce": 1584848107,
-			"isDeleted": false,
+			"version": 2260,
+			"versionNonce": 1569022823,
+			"isDeleted": true,
 			"id": "8P5vAUSrQWeCTJJwtI830",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -959,7 +959,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690085422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -980,9 +980,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2289,
-			"versionNonce": 245496645,
-			"isDeleted": false,
+			"version": 2290,
+			"versionNonce": 847391369,
+			"isDeleted": true,
 			"id": "qh97yEA_ufsXBpF0C8nCy",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1005,7 +1005,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690085422,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1026,9 +1026,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2188,
-			"versionNonce": 553781131,
-			"isDeleted": false,
+			"version": 2189,
+			"versionNonce": 1307729543,
+			"isDeleted": true,
 			"id": "NE8Qz1BlfJb1YdOiBg6hF",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1049,15 +1049,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690085422,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2952,
-			"versionNonce": 1840007845,
-			"isDeleted": false,
+			"version": 2953,
+			"versionNonce": 68220903,
+			"isDeleted": true,
 			"id": "qpQBx05Cg28Okz4qoLbb1",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1080,7 +1080,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690086286,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1101,9 +1101,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2963,
-			"versionNonce": 1242488363,
-			"isDeleted": false,
+			"version": 2964,
+			"versionNonce": 998776329,
+			"isDeleted": true,
 			"id": "IWOjG7UfE4mSUPYtlneuT",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1126,7 +1126,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690086286,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1147,9 +1147,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2882,
-			"versionNonce": 1232449029,
-			"isDeleted": false,
+			"version": 2883,
+			"versionNonce": 924279559,
+			"isDeleted": true,
 			"id": "iIX3pZe_SzkGImAmoy8nQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1170,15 +1170,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690086286,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1900,
-			"versionNonce": 1955061963,
-			"isDeleted": false,
+			"version": 1901,
+			"versionNonce": 1826721095,
+			"isDeleted": true,
 			"id": "NN57w6Z5zY1ektwc_DTVi",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1201,7 +1201,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690088239,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1222,9 +1222,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 1930,
-			"versionNonce": 1627104613,
-			"isDeleted": false,
+			"version": 1931,
+			"versionNonce": 1975389865,
+			"isDeleted": true,
 			"id": "5c_TiOI4MXhcrJKsYECG7",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1247,7 +1247,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690088239,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1268,9 +1268,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 1831,
-			"versionNonce": 2047315819,
-			"isDeleted": false,
+			"version": 1832,
+			"versionNonce": 1475234919,
+			"isDeleted": true,
 			"id": "Ov21hEcWSeTZxiBIM6S9s",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1291,15 +1291,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690088239,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2111,
-			"versionNonce": 931901637,
-			"isDeleted": false,
+			"version": 2112,
+			"versionNonce": 1532337831,
+			"isDeleted": true,
 			"id": "CczgM9-m9-RkD0_GTL9Ft",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1322,7 +1322,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690089032,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1343,9 +1343,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2122,
-			"versionNonce": 483944971,
-			"isDeleted": false,
+			"version": 2123,
+			"versionNonce": 1700152137,
+			"isDeleted": true,
 			"id": "ARdgVSJCBQ_SCUZRhJQ1f",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1368,7 +1368,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690089032,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1389,9 +1389,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2043,
-			"versionNonce": 180572197,
-			"isDeleted": false,
+			"version": 2044,
+			"versionNonce": 1956196807,
+			"isDeleted": true,
 			"id": "3QY_JLYg_z12sPZQqFxpo",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1412,15 +1412,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690089032,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2285,
-			"versionNonce": 1911877803,
-			"isDeleted": false,
+			"version": 2286,
+			"versionNonce": 634301447,
+			"isDeleted": true,
 			"id": "8Ggp_pccJvjFlbEcO8Tjj",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1443,7 +1443,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690089780,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1464,9 +1464,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2315,
-			"versionNonce": 143655813,
-			"isDeleted": false,
+			"version": 2316,
+			"versionNonce": 1690778601,
+			"isDeleted": true,
 			"id": "2hDa25Do4fSB-iJSL9Hol",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1489,7 +1489,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690089780,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1510,9 +1510,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2214,
-			"versionNonce": 185049931,
-			"isDeleted": false,
+			"version": 2215,
+			"versionNonce": 457806631,
+			"isDeleted": true,
 			"id": "bz1wgqr3SXupSoxqDgbOp",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1533,15 +1533,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690089780,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 3044,
-			"versionNonce": 1160727269,
-			"isDeleted": false,
+			"version": 3045,
+			"versionNonce": 1032174279,
+			"isDeleted": true,
 			"id": "T4khw5rq-LM-s4v-YZbov",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1564,7 +1564,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690092376,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1585,9 +1585,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 3055,
-			"versionNonce": 1617625579,
-			"isDeleted": false,
+			"version": 3056,
+			"versionNonce": 316504361,
+			"isDeleted": true,
 			"id": "mt5IEMP2sDM4kFv1ATXlE",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1610,7 +1610,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690092376,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1631,9 +1631,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2974,
-			"versionNonce": 1898882629,
-			"isDeleted": false,
+			"version": 2975,
+			"versionNonce": 783337959,
+			"isDeleted": true,
 			"id": "2fa7PZHjQWoIaz5EwgSbL",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1654,15 +1654,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690092376,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 1935,
-			"versionNonce": 2066320523,
-			"isDeleted": false,
+			"version": 1936,
+			"versionNonce": 471741799,
+			"isDeleted": true,
 			"id": "fzCionVhjUfnGQGDD37xw",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1685,7 +1685,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690091555,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1706,9 +1706,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 1965,
-			"versionNonce": 1332450725,
-			"isDeleted": false,
+			"version": 1966,
+			"versionNonce": 1679259785,
+			"isDeleted": true,
 			"id": "TwHuF3SormTniSDpF3buF",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1731,7 +1731,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690091555,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1752,9 +1752,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 1866,
-			"versionNonce": 1593688875,
-			"isDeleted": false,
+			"version": 1867,
+			"versionNonce": 631304327,
+			"isDeleted": true,
 			"id": "T0aDDmgEGWotCMlJHAeEA",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1775,15 +1775,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690091555,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2117,
-			"versionNonce": 1796446469,
-			"isDeleted": false,
+			"version": 2119,
+			"versionNonce": 922011241,
+			"isDeleted": true,
 			"id": "lZ2C-upoxmEWCWAhsdRnP",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1792,7 +1792,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"opacity": 100,
 			"angle": 0,
 			"x": 1269.520720754279,
-			"y": -240.74109742523154,
+			"y": -242.96331964745372,
 			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
 			"width": 1.2221387057641309,
@@ -1806,7 +1806,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690093132,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1827,9 +1827,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2128,
-			"versionNonce": 877798859,
-			"isDeleted": false,
+			"version": 2130,
+			"versionNonce": 1953493159,
+			"isDeleted": true,
 			"id": "PorHakxxgknGImt56dbpJ",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1838,7 +1838,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"opacity": 100,
 			"angle": 0,
 			"x": 1227.323741514645,
-			"y": -192.06678304505016,
+			"y": -194.28900526727233,
 			"strokeColor": "#c2255c",
 			"backgroundColor": "transparent",
 			"width": 40.873750048330024,
@@ -1852,7 +1852,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690093132,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1873,9 +1873,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2049,
-			"versionNonce": 228864101,
-			"isDeleted": false,
+			"version": 2051,
+			"versionNonce": 1061294409,
+			"isDeleted": true,
 			"id": "W6UhP6iI1eTDCf-PP7IAr",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -1884,7 +1884,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"opacity": 100,
 			"angle": 0,
 			"x": 1222.5709798811185,
-			"y": -243.39660868713958,
+			"y": -245.61883090936175,
 			"strokeColor": "transparent",
 			"backgroundColor": "#fcc2d7",
 			"width": 45.62651168185673,
@@ -1896,15 +1896,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360280,
+			"updated": 1709690093132,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 2371,
-			"versionNonce": 1119112171,
-			"isDeleted": false,
+			"version": 2372,
+			"versionNonce": 1128469257,
+			"isDeleted": true,
 			"id": "t3jNWTsQQLx1u3ETjR_eq",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1927,7 +1927,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360281,
+			"updated": 1709690095420,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1948,9 +1948,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 2401,
-			"versionNonce": 712440901,
-			"isDeleted": false,
+			"version": 2402,
+			"versionNonce": 1416773127,
+			"isDeleted": true,
 			"id": "OPTL1__vEfiVln-NU7sO4",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -1973,7 +1973,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360281,
+			"updated": 1709690095420,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1994,9 +1994,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2300,
-			"versionNonce": 431593099,
-			"isDeleted": false,
+			"version": 2301,
+			"versionNonce": 291359209,
+			"isDeleted": true,
 			"id": "xprbCpw0dt9R4cWwUIqEk",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -2017,15 +2017,15 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360281,
+			"updated": 1709690095420,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 3007,
-			"versionNonce": 691612581,
-			"isDeleted": false,
+			"version": 3008,
+			"versionNonce": 1090593705,
+			"isDeleted": true,
 			"id": "ZTMSTFCKJ-OGsZUspVYsX",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -2048,7 +2048,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360281,
+			"updated": 1709690096166,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2069,9 +2069,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "line",
-			"version": 3018,
-			"versionNonce": 50105643,
-			"isDeleted": false,
+			"version": 3019,
+			"versionNonce": 634586983,
+			"isDeleted": true,
 			"id": "mSBTzIEXKwLxnzgbObgla",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -2094,7 +2094,7 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1709172360281,
+			"updated": 1709690096166,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2115,9 +2115,9 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 2937,
-			"versionNonce": 582905605,
-			"isDeleted": false,
+			"version": 2938,
+			"versionNonce": 441501321,
+			"isDeleted": true,
 			"id": "GTbXBk1tbJLxQpX4_NZfa",
 			"fillStyle": "hachure",
 			"strokeWidth": 4,
@@ -2138,1004 +2138,36 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1709172360281,
+			"updated": 1709690096166,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "YK0f7WlPnAPlYnClkk0wY",
 			"type": "rectangle",
-			"x": -724.5204090463603,
-			"y": 502.48081551379084,
-			"width": 555.2959237791945,
-			"height": 240.09721294551207,
-			"angle": 0,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
+			"version": 353,
+			"versionNonce": 1402304585,
+			"isDeleted": true,
+			"id": "YK0f7WlPnAPlYnClkk0wY",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -724.5204090463603,
+			"y": 502.48081551379084,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"width": 555.2959237791945,
+			"height": 240.09721294551207,
+			"seed": 1755509156,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1755509156,
-			"version": 352,
-			"versionNonce": 600666916,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1709307612306,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 2301,
-			"versionNonce": 1804978716,
-			"isDeleted": true,
-			"id": "chkhXw8uXau6PxvfBX_O3",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -713.0353325609552,
-			"y": 212.41811614979702,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 0.6885109956027422,
-			"height": 44.47781031594874,
-			"seed": 1650735563,
-			"groupIds": [
-				"iBPEr6RVw5l5S8kqQRkTq"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
 			"boundElements": [],
-			"updated": 1709307599589,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6885109956027422,
-					44.47781031594874
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 2331,
-			"versionNonce": 421033380,
-			"isDeleted": true,
-			"id": "f_VvfH9_eAVsic7k8CNBs",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -712.4493332024753,
-			"y": 210.68918853861646,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 48.195769692204486,
-			"height": 0.9639153938439354,
-			"seed": 2096154731,
-			"groupIds": [
-				"iBPEr6RVw5l5S8kqQRkTq"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307599589,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					48.195769692204486,
-					0.9639153938439354
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 2230,
-			"versionNonce": 2064524956,
-			"isDeleted": true,
-			"id": "gTgY4FpTBhIrP9DfbBEP5",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -713.4132485963195,
-			"y": 210.68918853861646,
-			"strokeColor": "transparent",
-			"backgroundColor": "#eebefa",
-			"width": 46.26793890451626,
-			"height": 48.195769692204486,
-			"seed": 1077052171,
-			"groupIds": [
-				"iBPEr6RVw5l5S8kqQRkTq"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307599589,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 2961,
-			"versionNonce": 1309070116,
-			"isDeleted": true,
-			"id": "4uFifWZqjiLd53z53Vx8j",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -152.05398204446556,
-			"y": 442.2395448327712,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 1.3214831045567315,
-			"height": 51.537841077707895,
-			"seed": 1831917515,
-			"groupIds": [
-				"P-PUuQZ_8qwWR_u2JgLtk"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307598859,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.3214831045567315,
-					51.537841077707895
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 2972,
-			"versionNonce": 417227036,
-			"isDeleted": true,
-			"id": "7CoknLEqx15RdgFjjeWU3",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -197.68104128537414,
-			"y": 494.8704645278281,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 44.19626827461558,
-			"height": 1.0278201924330133,
-			"seed": 7972459,
-			"groupIds": [
-				"P-PUuQZ_8qwWR_u2JgLtk"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307598859,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					44.19626827461558,
-					-1.0278201924330133
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 2891,
-			"versionNonce": 864603812,
-			"isDeleted": true,
-			"id": "GieaaC6D0XiX5j9rxu3VM",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -202.82014224753846,
-			"y": 439.36817413645036,
-			"strokeColor": "transparent",
-			"backgroundColor": "#eebefa",
-			"width": 49.33536923678014,
-			"height": 51.391009621646035,
-			"seed": 1525653771,
-			"groupIds": [
-				"P-PUuQZ_8qwWR_u2JgLtk"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307598859,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 1900,
-			"versionNonce": 1293319196,
-			"isDeleted": true,
-			"id": "P0xug6BvOOIeSAKPgC8TZ",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -721.1311035821125,
-			"y": 515.6622611010391,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 0.6594812754244676,
-			"height": 42.60249039243171,
-			"seed": 593692651,
-			"groupIds": [
-				"ZQnfOimhgWyRf1aNZRtY4"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307572271,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6594812754244676,
-					42.60249039243171
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 1930,
-			"versionNonce": 313779108,
-			"isDeleted": true,
-			"id": "PN78lBiJYOKmlPIMXXt4Z",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -720.5698117410295,
-			"y": 514.0062303427505,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 46.163689279724736,
-			"height": 0.9232737855943469,
-			"seed": 1831916171,
-			"groupIds": [
-				"ZQnfOimhgWyRf1aNZRtY4"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307572271,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					46.163689279724736,
-					0.9232737855943469
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 1831,
-			"versionNonce": 229152924,
-			"isDeleted": true,
-			"id": "1UmomAgsXBeRLypp7AbY_",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -721.4930855266236,
-			"y": 514.0062303427505,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fcc2d7",
-			"width": 44.3171417085357,
-			"height": 46.163689279724736,
-			"seed": 1546406187,
-			"groupIds": [
-				"ZQnfOimhgWyRf1aNZRtY4"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307572271,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 2088,
-			"versionNonce": 2118273700,
-			"isDeleted": true,
-			"id": "99tHM8iJXfM0BfHym-q3l",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -164.03756366996606,
-			"y": 700.522182065643,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 1.2221387057641309,
-			"height": 47.663409524796826,
-			"seed": 1702740523,
-			"groupIds": [
-				"ZpJN-QBD1FUjvjXVtCWbf"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307573213,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2221387057641309,
-					47.663409524796826
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 2099,
-			"versionNonce": 903356828,
-			"isDeleted": true,
-			"id": "W7QQDCUcfEE3G0De6JtUI",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -206.2345429096,
-			"y": 749.1964964458244,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 40.873750048330024,
-			"height": 0.9505523267054351,
-			"seed": 142230731,
-			"groupIds": [
-				"ZpJN-QBD1FUjvjXVtCWbf"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307573213,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					40.873750048330024,
-					-0.9505523267054351
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 2020,
-			"versionNonce": 1281971748,
-			"isDeleted": true,
-			"id": "-4o-4JRJnnxzmM0nc7oD-",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -210.98730454312647,
-			"y": 697.866670803735,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fcc2d7",
-			"width": 45.62651168185673,
-			"height": 47.52761633526748,
-			"seed": 705524587,
-			"groupIds": [
-				"ZpJN-QBD1FUjvjXVtCWbf"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307573213,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 2311,
-			"versionNonce": 900870044,
-			"isDeleted": true,
-			"id": "cHfm3tOVmsukBHTYn-Lca",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -714.8157226258305,
-			"y": 750.9908659484952,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 0.6885109956027422,
-			"height": 44.47781031594874,
-			"seed": 1860916779,
-			"groupIds": [
-				"5kTffxiOIQfKQl1PSLfKp"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307600575,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6885109956027422,
-					44.47781031594874
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 2341,
-			"versionNonce": 1501505572,
-			"isDeleted": true,
-			"id": "fRcLdkim4AS9Zoyeyn5px",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -714.2297232673506,
-			"y": 749.2619383373146,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 48.195769692204486,
-			"height": 0.9639153938439354,
-			"seed": 924145867,
-			"groupIds": [
-				"5kTffxiOIQfKQl1PSLfKp"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307600575,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					48.195769692204486,
-					0.9639153938439354
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 2240,
-			"versionNonce": 1602346012,
-			"isDeleted": true,
-			"id": "FrZ1sckzBVHXvrAh1WuGR",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -715.1936386611948,
-			"y": 749.2619383373146,
-			"strokeColor": "transparent",
-			"backgroundColor": "#eebefa",
-			"width": 46.26793890451626,
-			"height": 48.195769692204486,
-			"seed": 2082867051,
-			"groupIds": [
-				"5kTffxiOIQfKQl1PSLfKp"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307600575,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 2985,
-			"versionNonce": 1440122140,
-			"isDeleted": true,
-			"id": "jOFMD57_HEPC9p4XkXD2R",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -167.1680760958119,
-			"y": 810.6989832557917,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 1.3214831045567315,
-			"height": 51.537841077707895,
-			"seed": 2029760325,
-			"groupIds": [
-				"m_q5RXK2H7EptUM96UMkO"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307601368,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.3214831045567315,
-					51.537841077707895
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 2996,
-			"versionNonce": 2090134180,
-			"isDeleted": true,
-			"id": "sxIofKfhFkEvY86UiMxlv",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -212.79513533672048,
-			"y": 863.3299029508487,
-			"strokeColor": "#9c36b5",
-			"backgroundColor": "transparent",
-			"width": 44.19626827461558,
-			"height": 1.0278201924330133,
-			"seed": 1253015205,
-			"groupIds": [
-				"m_q5RXK2H7EptUM96UMkO"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307601368,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					44.19626827461558,
-					-1.0278201924330133
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 2915,
-			"versionNonce": 1937736092,
-			"isDeleted": true,
-			"id": "6OFLHV9d9CDeU2pJYcEIz",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -217.9342362988848,
-			"y": 807.8276125594709,
-			"strokeColor": "transparent",
-			"backgroundColor": "#eebefa",
-			"width": 49.33536923678014,
-			"height": 51.391009621646035,
-			"seed": 133325317,
-			"groupIds": [
-				"m_q5RXK2H7EptUM96UMkO"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307601368,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 1930,
-			"versionNonce": 1963917340,
-			"isDeleted": true,
-			"id": "FEwjRJobWi5PnABW8VOkn",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -720.9517958262844,
-			"y": 878.1351980231877,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 0.6594812754244676,
-			"height": 42.60249039243171,
-			"seed": 1262052837,
-			"groupIds": [
-				"f04pSG8SvsY3IvOvxuTcO"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307602945,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6594812754244676,
-					42.60249039243171
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 1960,
-			"versionNonce": 1735761828,
-			"isDeleted": true,
-			"id": "HcgXUtvHsu2z0xZjIlOce",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -720.3905039852015,
-			"y": 876.4791672648992,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 46.163689279724736,
-			"height": 0.9232737855943469,
-			"seed": 87908677,
-			"groupIds": [
-				"f04pSG8SvsY3IvOvxuTcO"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307602945,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					46.163689279724736,
-					0.9232737855943469
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 1861,
-			"versionNonce": 737189020,
-			"isDeleted": true,
-			"id": "s4-dVm1_cb9dbCXpTkKCk",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -721.3137777707956,
-			"y": 876.4791672648992,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fcc2d7",
-			"width": 44.3171417085357,
-			"height": 46.163689279724736,
-			"seed": 132837541,
-			"groupIds": [
-				"f04pSG8SvsY3IvOvxuTcO"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307602945,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "line",
-			"version": 2102,
-			"versionNonce": 1606994588,
-			"isDeleted": true,
-			"id": "LBPJJ5RfvbO1hqr1XWnPY",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -169.09930901332336,
-			"y": 951.7127128642272,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 1.2221387057641309,
-			"height": 47.663409524796826,
-			"seed": 1283713509,
-			"groupIds": [
-				"4SnNGVJmxsyJ2DZlmbEkw"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307602123,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.2221387057641309,
-					47.663409524796826
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 2113,
-			"versionNonce": 1978907940,
-			"isDeleted": true,
-			"id": "TfrTv3Z9P0JtXvgFxy3C1",
-			"fillStyle": "solid",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -211.2962882529573,
-			"y": 1000.3870272444086,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 40.873750048330024,
-			"height": 0.9505523267054351,
-			"seed": 43476293,
-			"groupIds": [
-				"4SnNGVJmxsyJ2DZlmbEkw"
-			],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1709307602123,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					40.873750048330024,
-					-0.9505523267054351
-				]
-			]
-		},
-		{
-			"type": "rectangle",
-			"version": 2034,
-			"versionNonce": 1645025052,
-			"isDeleted": true,
-			"id": "qHgNucIQ287MkC0S-hH--",
-			"fillStyle": "hachure",
-			"strokeWidth": 4,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -216.04904988648377,
-			"y": 949.0572016023192,
-			"strokeColor": "transparent",
-			"backgroundColor": "#fcc2d7",
-			"width": 45.62651168185673,
-			"height": 47.52761633526748,
-			"seed": 1399092389,
-			"groupIds": [
-				"4SnNGVJmxsyJ2DZlmbEkw"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709307602123,
+			"updated": 1709690097646,
 			"link": null,
 			"locked": false
 		}
@@ -3155,10 +2187,10 @@ e786983c500176de516d09d2889229f52443fdc0: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1261.6099090950893,
-		"scrollY": -74.04312739560274,
+		"scrollX": 698.2447407532172,
+		"scrollY": 776.6477376280384,
 		"zoom": {
-			"value": 0.8788107009300619
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
