@@ -9,7 +9,9 @@
 - [[Tunnelling]]
 - [[SLAAC]]
 
-# Contents
+%%
+
+# Excalidraw Links
 
 [[IPv6.excalidraw|Excalidraw]]
 
@@ -28,3 +30,5 @@
 - Tunnelling - [[Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md#^tdgFIpPo|PDF Location]]
 - Dual Stack Lite - [[Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md#^tdgFIpPo|PDF Location]]
 - Barriers to Deployment - [[Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md#^oKMpKetq|PDF Location]]
+
+%%

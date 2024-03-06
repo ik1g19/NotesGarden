@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "129554f7c28d5f72",
+            "id": "86ea0903466f2e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Other Content.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a529e935e5776ec",
+            "id": "09b9b167534f9a41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web services",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Other Content.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Other Content.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Other Content.md"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md"
               }
             }
           }
@@ -147,44 +147,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "129554f7c28d5f72",
+  "active": "86ea0903466f2e6b",
   "lastOpenFiles": [
-    "notes/Uni Content/Machine Learning Technologies/Regression.md",
-    "notes/Uni Content/Advanced Databases/Week 1.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 8/Traits in Rust.md",
-    "DBMS.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Advanced Programming Language Concepts ToC.md",
-    "notes/Uni Content/Advanced Programming Language Concepts/Week 8/Software Composition.md",
-    "notes/Uni Content/Software Security/Software Security ToC.md",
-    "notes/Uni Content/Software Security/Week 8/Reverse Engineering 1.md",
-    "notes/Uni Content/Software Security/Week 8/Reverse Engineering 2.md",
-    "notes/Uni Content/Software Security/Week 1/Software Vulnerabilities.md",
-    "notes/Uni Content/Software Security/Week 7/Static and Dynamic Analysis.md",
-    "notes/templates/post.md",
-    "notes/Other Content.md",
-    "_index.md",
-    "notes/Uni Content/Machine Learning Technologies/MLT ToC.md",
-    "notes/Useful Links.md",
+    "concepts/IPv6.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6 Features CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6 Features CROP.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/IPv6.excalidraw.md",
+    "Excalidraw/cropped_IPv6.excalidraw.png",
+    "concepts/Dual Stack.md",
+    "concepts/IPv4.md",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
-    "notes/Uni Content/Advanced Computer Networks/Advanced Computer Networks ToC.md",
-    "concepts/SOAP.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md",
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Web Services.md",
-    "notes/Uni Content/Advanced Computer Networks/Week 3/MQTT and COAP.md",
-    "notes/Uni Content/Advanced Computer Networks/Week 4/IPv6 Deployment and Transition.md",
-    "notes/Uni Content/Advanced Computer Networks/Week 6/IEEE 802.11_ Wi-Fi.md",
-    "concepts/RESTful.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
+    "concepts/UDP.md",
+    "concepts/Sliding Window.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/UDP Transport Layer CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/UDP Transport Layer CROP.excalidraw.png",
+    "Excalidraw/cropped_Transport Layer.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Transport Layer.excalidraw.md",
+    "concepts/TCP.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Connection Establishment CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Connection Establishment CROP.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer CROP.excalidraw.png",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/TCP Transport Layer.excalidraw.png",
+    "_index.md",
+    "concepts/CIDR.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/CIDR I & NL CROP.excalidraw.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/CIDR I & NL CROP.excalidraw.png",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
+    "Excalidraw/cropped_Internet & Network Layer.excalidraw.png",
+    "notes/Uni Content/Programming 2/Programming 2 ToC.md",
+    "notes/Uni Content/Programming 2/Contents/Iteration and Streaming in Java.md",
+    "notes/Uni Content/Programming 2/Contents/C Programming.md",
+    "notes/Uni Content/Programming 2/Contents/Software Testing and Unit Testing.md",
+    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
     "Excalidraw/cropped_Distributed Systems and Networks.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Reliable and Ordered Multicast.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Leader Election.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Remote Invocation.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Mutual Exclusion.excalidraw.png",
-    "Excalidraw/Drawing 2024-03-05 16.19.43.excalidraw.png",
     "notes/GPT Notes/Deep Learning",
     "notes/GPT Notes",
     "notes/Back End Development Questions",

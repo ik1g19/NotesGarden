@@ -4,7 +4,8 @@
 
 - [[Synchronisation]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Distributed Algorithms & Clocks.excalidraw|Excalidraw]]
 
@@ -23,3 +24,5 @@
 	- Implementation of Logical Clocks - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md#^N8bnjVIf|PDF Location]]
 	- Vector Clocks - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md#^OHoxi3do|PDF Location]]
 	- Vector Clock Implementation - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md#^3KE0uysG|PDF Location]]
+
+%%

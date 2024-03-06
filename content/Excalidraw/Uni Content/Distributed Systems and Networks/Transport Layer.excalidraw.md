@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+draft: "true"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -961,128 +961,41 @@ c173bfca00535842c387b6fc41317e732b3fc5cd: [[Distributed Systems and Networks.pdf
 			]
 		},
 		{
-			"type": "rectangle",
-			"version": 895,
-			"versionNonce": 278184436,
-			"isDeleted": false,
-			"id": "b9zEWzA_o5pw5DEI6VMip",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -674.8384948384884,
-			"y": -711.7900536962969,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
-			"width": 531.9999999999999,
-			"height": 522.6666666666665,
-			"seed": 1640893556,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1709302241797,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 147,
-			"versionNonce": 1077431284,
-			"isDeleted": false,
-			"id": "x3eLeaUVaKXiPr6nDJpxG",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1319.403508771929,
-			"y": -768.7987938596488,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
-			"width": 445.26315789473676,
-			"height": 235.78947368421052,
-			"seed": 1115726068,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1709302636298,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 179,
-			"versionNonce": 773919004,
-			"isDeleted": false,
-			"id": "RX5x8eg5X70LwLzItfjyK",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1964.7192982456131,
-			"y": -673.0093201754382,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
-			"width": 571.5789473684208,
-			"height": 403.1578947368421,
-			"seed": 1381058716,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1709304543634,
-			"link": null,
-			"locked": false
-		},
-		{
+			"id": "SnI84sdO",
 			"type": "text",
-			"version": 137,
-			"versionNonce": 683077978,
-			"isDeleted": true,
-			"id": "MJeSepYu",
+			"x": -1032.3520934804123,
+			"y": -718.2617367604107,
+			"width": 79.91996765136719,
+			"height": 45,
+			"angle": 0,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": -1018.1521921773456,
-			"y": -731.5434103401767,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
-			"width": 104.83193969726562,
-			"height": 45,
-			"seed": 380288282,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1709319797228,
+			"seed": 1881335288,
+			"version": 6,
+			"versionNonce": 1928436872,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1709688986305,
 			"link": null,
 			"locked": false,
+			"text": "test",
+			"rawText": "test",
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "pussy!",
-			"rawText": "pussy!",
 			"textAlign": "left",
 			"verticalAlign": "top",
+			"baseline": 32,
 			"containerId": null,
-			"originalText": "pussy!",
-			"lineHeight": 1.25,
-			"baseline": 32
+			"originalText": "test",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1100,10 +1013,10 @@ c173bfca00535842c387b6fc41317e732b3fc5cd: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1886.771929824561,
-		"scrollY": 1166.1836622807011,
+		"scrollX": 1517.5511588400843,
+		"scrollY": 907.8065577610109,
 		"zoom": {
-			"value": 0.9500000000000001
+			"value": 1.1211892990699386
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

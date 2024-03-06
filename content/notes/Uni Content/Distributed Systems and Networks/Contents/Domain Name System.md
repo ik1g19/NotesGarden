@@ -6,7 +6,8 @@
 - [[RIP]]
 - [[Link State Routing]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Domain Name System.excalidraw|Excalidraw]]
 
@@ -21,3 +22,5 @@
 - Link State Routing - [[Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.md#^RK8ZNwFk|PDF Location]]
 - Inter-Site Routing - [[Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.md#^3Fk6hpsb|PDF Location]]
 - Border Gateway Protocol - [[Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.md#^3Fk6hpsb|PDF Location]]
+
+%%

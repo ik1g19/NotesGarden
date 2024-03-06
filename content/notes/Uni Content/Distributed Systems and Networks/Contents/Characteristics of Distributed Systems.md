@@ -5,7 +5,8 @@
 - [[Edge Computing]]
 - [[Internet of Things]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Characteristics of Distributed Systems.excalidraw|Excalidraw]]
 
@@ -15,3 +16,5 @@
 - Internet of Things (IoT) - [[Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.md#^0H0DsYx7|PDF Location]]
 - Edge and Fog Computing - [[Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.md#^STVRpWIl|PDF Location]]
 - Challenges of Distributed Systems - [[Excalidraw/Uni Content/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.md#^STVRpWIl|PDF Location]]
+
+%%

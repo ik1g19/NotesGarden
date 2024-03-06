@@ -6,7 +6,8 @@
 - [[Typedef]]
 - [[C]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[C Programming.excalidraw|Excalidraw]]
 
@@ -18,3 +19,5 @@
 - Functions - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^2iAeMxw1|PDF Location]]
 - Structures - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^BYXnrN8v|PDF Location]]
 - Typedef - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^BYXnrN8v|PDF Location]]
+
+%%

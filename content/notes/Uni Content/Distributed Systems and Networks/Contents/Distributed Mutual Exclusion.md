@@ -1,6 +1,7 @@
 ![[Distributed Mutual Exclusion.excalidraw.png|600]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Distributed Mutual Exclusion.excalidraw|Excalidraw]]
 
@@ -13,3 +14,5 @@
 - Mackawa's Algorithm - [[Distributed Mutual Exclusion.excalidraw#^6WcRtVJv|PDF Location]]
 - Mackawa's Voting Algorithm - [[Distributed Mutual Exclusion.excalidraw#^pgiqzst5|PDF Location]]
 - Fault Tolerance - [[Distributed Mutual Exclusion.excalidraw#^C9bNHXoP|PDF Location]]
+
+%%

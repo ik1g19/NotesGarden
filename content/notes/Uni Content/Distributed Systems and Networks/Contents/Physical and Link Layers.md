@@ -9,7 +9,8 @@
 - [[Link Layer]]
 - [[CSMA]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Physical and Link Layers.excalidraw|Excalidraw]]
 
@@ -24,3 +25,5 @@
 - Ethernet - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
 - WiFi - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
 - CSMA/CD - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
+
+%%

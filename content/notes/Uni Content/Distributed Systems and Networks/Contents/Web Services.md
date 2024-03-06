@@ -5,7 +5,8 @@
 - [[RESTful]]
 - [[SOAP]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Web Services.excalidraw|Excalidraw]]
 
@@ -13,3 +14,5 @@
 - SOAP Protocol - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^FCIHgyW1|PDF Location]]
 - SOAP Messages - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^nPcbR0VB|PDF Location]]
 - RESTful Web Services - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^FfJUowTP|PDF Location]]
+
+%%

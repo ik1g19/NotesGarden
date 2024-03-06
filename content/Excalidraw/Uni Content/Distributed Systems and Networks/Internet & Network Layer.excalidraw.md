@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+draft: "true"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -35,10 +35,6 @@ MAC Addresses ^U7vH93rH
 Virtual LANs ^Rt0ceeBX
 
 Ethernet Frame Priority ^NZX8KqDK
-
-[[ARP]] ^7fGfpqBE
-
-[[CIDR]] ^cYNMXMuW
 
 
 # Embedded files
@@ -1340,9 +1336,9 @@ f9659246d72f379ba29202b042233266845483b2: [[Distributed Systems and Networks.pdf
 		},
 		{
 			"type": "rectangle",
-			"version": 153,
-			"versionNonce": 1291610524,
-			"isDeleted": false,
+			"version": 154,
+			"versionNonce": 1086543752,
+			"isDeleted": true,
 			"id": "RtTlOGpHE3ud01jFOda_9",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1363,65 +1359,65 @@ f9659246d72f379ba29202b042233266845483b2: [[Distributed Systems and Networks.pdf
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1709307719255,
+			"updated": 1709688070775,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "cYNMXMuW",
 			"type": "rectangle",
-			"x": -2520.7631578947357,
-			"y": 357.8854166666665,
-			"width": 551.578947368421,
-			"height": 336.8421052631579,
-			"angle": 0,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
+			"version": 167,
+			"versionNonce": 418282488,
+			"isDeleted": true,
+			"id": "cYNMXMuW",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2520.7631578947357,
+			"y": 357.8854166666665,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"width": 551.578947368421,
+			"height": 336.8421052631579,
+			"seed": 1043083804,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1043083804,
-			"version": 166,
-			"versionNonce": 588043428,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1709309564123,
+			"boundElements": [],
+			"updated": 1709688056969,
 			"link": "[[CIDR]]",
 			"locked": false
 		},
 		{
-			"id": "7fGfpqBE",
 			"type": "rectangle",
-			"x": -1853.7344497607637,
-			"y": 526.083183811802,
-			"width": 546.6666666666665,
-			"height": 521.3333333333335,
-			"angle": 0,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
+			"version": 154,
+			"versionNonce": 253242504,
+			"isDeleted": true,
+			"id": "7fGfpqBE",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1853.7344497607637,
+			"y": 526.083183811802,
+			"strokeColor": "#0c8599",
+			"backgroundColor": "transparent",
+			"width": 546.6666666666665,
+			"height": 521.3333333333335,
+			"seed": 308000548,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 308000548,
-			"version": 153,
-			"versionNonce": 1251009948,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1709309553168,
+			"boundElements": [],
+			"updated": 1709688058986,
 			"link": "[[ARP]]",
 			"locked": false
 		}
@@ -1441,10 +1437,10 @@ f9659246d72f379ba29202b042233266845483b2: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2860.4011164274307,
-		"scrollY": -105.39568381180197,
+		"scrollX": 2753.185425685431,
+		"scrollY": -7.632953418112265,
 		"zoom": {
-			"value": 0.7499999999999999
+			"value": 0.6
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

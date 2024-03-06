@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+draft: "true"
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -296,12 +296,12 @@ a5fbc04f348f42dd12309c659b58b04f1f1ccfb8: [[Distributed Systems and Networks.pdf
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 573.136363636364,
-			"y": -1221.8181818181818,
+			"x": 542.9414254644464,
+			"y": -1179.596193734267,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 619,
-			"height": 950,
+			"width": 679.3898763438352,
+			"height": 865.5560238321705,
 			"seed": 90979,
 			"groupIds": [
 				"DKcKAXuL"
@@ -1361,35 +1361,6 @@ a5fbc04f348f42dd12309c659b58b04f1f1ccfb8: [[Distributed Systems and Networks.pdf
 			"locked": false
 		},
 		{
-			"id": "Lg3aS9xdoCkbW2LsOFvnD",
-			"type": "rectangle",
-			"x": -1869.3996327705272,
-			"y": -854.9972551562041,
-			"width": 543.1358345421422,
-			"height": 223.41757732939186,
-			"angle": 0,
-			"strokeColor": "#0c8599",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 1634198428,
-			"version": 140,
-			"versionNonce": 1559286820,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1709309352268,
-			"link": null,
-			"locked": false
-		},
-		{
 			"type": "rectangle",
 			"version": 3401,
 			"versionNonce": 911338012,
@@ -1463,10 +1434,10 @@ a5fbc04f348f42dd12309c659b58b04f1f1ccfb8: [[Distributed Systems and Networks.pdf
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1569.9416460908117,
-		"scrollY": 1593.4869501018434,
+		"scrollX": 2690.8011408096536,
+		"scrollY": 3473.575003747272,
 		"zoom": {
-			"value": 0.6018483400052932
+			"value": 0.15000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -9,7 +9,8 @@
 - [[DDoS]]
 - [[Firewall]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Network Security (Distributed Systems and Networks).excalidraw|Excalidraw]]
 
@@ -36,4 +37,6 @@
 - LOIC & HOIC - [[Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md#^eUIxLiiE|PDF Location]]
 - Slow LORIS - [[Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md#^eUIxLiiE|PDF Location]]
 - IPv6 RA Flood - [[Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md#^eUIxLiiE|PDF Location]]
-- DDoS Mitigation - [[Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md#^4FRCoX2d|PDF Location]]c
+- DDoS Mitigation - [[Excalidraw/Uni Content/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md#^4FRCoX2d|PDF Location]]
+
+%%

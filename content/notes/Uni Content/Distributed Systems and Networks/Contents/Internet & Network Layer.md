@@ -10,7 +10,8 @@
 - [[Virtual LAN]]
 - [[MAC]]
 
-# Contents
+%%
+# Excalidraw Links
 
 [[Internet & Network Layer.excalidraw|Excalidraw]]
 
@@ -31,3 +32,5 @@
 	- Unicast, Broadcast, Multicast & Anycast - [[Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md#^MeeAc8KS|PDF Location]]
 - Virtual LANs - [[Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md#^nZ4tVKCe|PDF Location]]
 - Ethernet Frame Priority - [[Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md#^24IHY5tJ|PDF Location]]
+
+%%

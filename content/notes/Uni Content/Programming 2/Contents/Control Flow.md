@@ -10,6 +10,9 @@
 
 ![[JVM.excalidraw.png|600]]
 
+%%
+# Excalidraw Links
+
 - [[JVM.excalidraw|JVM Excalidraw]]
 	- JVM Architecture - [[JVM.excalidraw#^HyEIIEBs7qEE2eXbySda3|PDF Location]]
 	- The Constant Pool - [[JVM.excalidraw#^aw_yyiPXf_Rg05fHJ3yOX|PDF Location]]
@@ -21,7 +24,13 @@
 	- Statics - [[JVM.excalidraw#^n0pRyKR_h5uz-Sbeu9mqS|PDF Location]]
 	- Exceptions - [[JVM.excalidraw#^qJ_N7SrAsrX8V-luF0A5n|PDF Location]]
 
+%%
+
 ![[Multithreading.excalidraw.png|600]]
+
+%%
+
+# Excalidraw Links
 
 - [[Multithreading.excalidraw|Multithreading Excalidraw]]
 	- Creating Threads - [[Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.md#^tr41hY3425ccClrZrpLBU|PDF Location]]
@@ -30,10 +39,18 @@
 	- Shared Variable Concurrency - [[Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.md#^khYu6XGK4JnTE-E5D8dZr|PDF Location]]
 	- Lost Updates - [[Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.md#^xdbZ-9mLsPH8a6dB13Utx|PDF Location]]
 
+%%
+
 ![[Synchronising Code.excalidraw.png|600]]
+
+%%
+
+# Excalidraw Links
 
 - [[Synchronising Code.excalidraw|Synchronising Code Excalidraw]]
 	- Monitors - [[Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.md#^nJpzC2dJYLp14BQ7FS1D9|PDF Location]]
 	- Threading and JavaFX - [[Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.md#^gGf0KHbcS3KXCrPztv_B9|PDF Location]]
 	- Deadlock - [[Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.md#^C1Unxhj3cZvnh_nBUmUZc|PDF Location]]
 	- Event Dispatch Thread - [[Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.md#^C1Unxhj3cZvnh_nBUmUZc|PDF Location]]
+
+%%
