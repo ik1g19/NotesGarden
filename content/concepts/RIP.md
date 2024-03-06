@@ -1,3 +1,9 @@
-[[Domain Name System|Link]]
+
+
+%%
+
+# Extracts
 
 ![[Excalidraw/Uni Content/Distributed Systems and Networks/Domain Name System.excalidraw.md#^area=cRHEoOIHXIUff2w4xOi9C|600]]
+
+%%
