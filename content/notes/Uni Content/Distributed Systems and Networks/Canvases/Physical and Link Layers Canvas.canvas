@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5654310699ae735e","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-001.png","x":-320,"y":-200,"width":260,"height":399},
+		{"id":"9dee376a3244f9a7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-002.png","x":-20,"y":-200,"width":257,"height":400},
+		{"id":"ed82df2c8411e528","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-003.png","x":280,"y":-200,"width":270,"height":400},
+		{"id":"f519e57eb8872640","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-004.png","x":600,"y":-200,"width":263,"height":400},
+		{"id":"eafa0d4f9ebd37dc","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-005.png","x":920,"y":-200,"width":277,"height":399},
+		{"id":"1856d96e3341fbb3","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-006.png","x":1240,"y":-200,"width":240,"height":400},
+		{"id":"5dd14978f6efc358","type":"text","text":"# Physical and Link Layers","x":400,"y":-440,"width":400,"height":86}
+	],
+	"edges":[]
+}
