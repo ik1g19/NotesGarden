@@ -1,14 +1,2 @@
-![[Distributed Transactions.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/IKx7nnzLRtkQQCca19aN" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
-%%
-
-# Excalidraw Links
-
-- Transactions - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.md#^0RGb6kdj|PDF Location]]
-- Conflicting Operations - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.md#^25tZaQXG|PDF Location]]
-- Concurrency Controls - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.md#^25tZaQXG|PDF Location]]
-- Recoverability from Aborts - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.md#^I2wHSNSZ|PDF Location]]
-- Distributed Transactions - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.md#^Au741jC2|PDF Location]]
-- Two Phase Commit Protocol (2PC) - [[Excalidraw/Uni Content/Distributed Systems and Networks/Distributed Transactions.excalidraw.md#^Au741jC2|PDF Location]]
-
-%%

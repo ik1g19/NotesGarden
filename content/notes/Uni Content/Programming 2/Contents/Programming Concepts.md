@@ -1,18 +1,6 @@
-![[Programming Concepts.excalidraw.png]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/lmpHpLclrQYwZ1t0XptU" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 # Concepts
 
 - [[Nested Classes]]
 - [[Anonymous Classes]]
 - [[Lambda Expressions]]
-
-%%
-
-# Excalidraw Links
-
-[[Programming Concepts.excalidraw|Excalidraw]]
-
-- Nested Classes - [[Programming Concepts.excalidraw#^0Uz3wu0GyxGpt31H4oS-m|PDF Location]]
-- Anonymous Classes - [[Programming Concepts.excalidraw#^TGiV0zAJmAQVMWuQtMq42|PDF Location]]
-- Lambda Expressions - [[Programming Concepts.excalidraw#^lsiShldaWVjwI1BW6jkWW|PDF Location]]
-
-%%

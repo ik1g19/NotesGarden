@@ -1,18 +1,6 @@
-![[Web Services.excalidraw.png]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/8cCz6DHUlKeqWPKIFHF1" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 # Concepts
 
 - [[RESTful]]
 - [[SOAP]]
-
-%%
-# Excalidraw Links
-
-[[Web Services.excalidraw|Excalidraw]]
-
-- Web Service Layers - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^WMjAnnoo|PDF Location]]
-- SOAP Protocol - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^FCIHgyW1|PDF Location]]
-- SOAP Messages - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^nPcbR0VB|PDF Location]]
-- RESTful Web Services - [[Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.md#^FfJUowTP|PDF Location]]
-
-%%

@@ -1,18 +1,5 @@
-![[File IO.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/MgMytE0Wdt9ratlgSPUS" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 # Concepts
-
-
 
 - [[Streams]]
 - [[Serialization]]
-
-%%
-
-# Excalidraw Links
-
-[[File IO.excalidraw|Excalidraw]]
-
-- Streams - [[File IO.excalidraw#^6n0gOffi7OivR-hlw-1BX|PDF Location]]
-- Serialization - [[File IO.excalidraw#^eSJHTcEbM64_ghWxogf_t|PDF Location]]
-
-%%

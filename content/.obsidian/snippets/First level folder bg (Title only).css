@@ -1,0 +1,39 @@
+/* Minimalist Colored Folders (title only)
+
+Adapted from Lithou and pbhopeful by prrtzt
+
+This will allow you to add colors to the top level folders in your vault.
+Only the top level folders will have a background, not their content.
+Colors have to be in R, G, B, which allows you to apply an opacity setting. You can change all of that below.
+
+
+*/
+
+:root{
+    /* Folder colors */
+    --Fold1: 209, 209, 209;
+
+    /* Opacity setting */
+    --bgFoldOpacity: 1;
+	
+    /* Margins and padding */
+    --foldBgPad: 3px;
+    --foldBgMar: 5px;
+}
+
+/* Folder Background Colors */        
+.nav-folder-title:hover {
+    color: rgb(79, 177, 188)!important; /* Text color when hovered */
+}
+.nav-file-title:hover {
+    color: rgb(79, 177, 188)!important; /* Text color when hovered */
+}
+.nav-file-tag {
+    color: rgb(221, 191, 130)!important;
+}
+.nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder:nth-child(odd) > .nav-folder-title {
+    color: rgb(209, 209, 209);
+}
+.nav-folder.mod-root > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children > .nav-folder:nth-child(odd) > .nav-folder-title {
+    color: rgb(209, 209, 209);
+}

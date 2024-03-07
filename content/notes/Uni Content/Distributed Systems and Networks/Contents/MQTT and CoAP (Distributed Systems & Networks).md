@@ -1,18 +1,6 @@
-![[MQTT and CoAP (Distributed Systems & Networks).excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/KdXwhTHeUWYODgpDpG6W" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 # Concepts
 
 - [[MQTT]]
 - [[CoAP]]
-
-%%
-# Excalidraw Links
-
-[[MQTT and CoAP (Distributed Systems & Networks).excalidraw|Excalidraw]]
-
-- MQTT - [[Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md#^h7EhjQ3J|PDF Location]]
-- CoAP - [[Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md#^f5TGiv4y|PDF Location]]
-- CoAP Header - [[Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md#^axFFEkgK|PDF Location]]
-- Resource Discovery - [[Excalidraw/Uni Content/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md#^axFFEkgK|PDF Location]]
-
-%%

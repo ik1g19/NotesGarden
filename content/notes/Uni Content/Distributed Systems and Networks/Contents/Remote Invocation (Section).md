@@ -1,17 +1,6 @@
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/ZfBWnA1Zgb1xRALNxsGy" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
-![[Remote Invocation.excalidraw.png|600]]
 # Concepts
 
 - [[Remote Procedure Call]]
 - [[Remote Method Invocation]]
-
-%%
-# Excalidraw Links
-
-[[Remote Invocation.excalidraw|Excalidraw]]
-
-- P101. Remote Procedure Call (RPC) - [[Excalidraw/Uni Content/Distributed Systems and Networks/Remote Invocation.excalidraw.md#^5D4UXn3m|PDF Location]]
-- P102. Design Issues for RPC - [[Excalidraw/Uni Content/Distributed Systems and Networks/Remote Invocation.excalidraw.md#^8NecZAwl|PDF Location]]
-- P103. Remote Method Invocation (RMI) - [[Excalidraw/Uni Content/Distributed Systems and Networks/Remote Invocation.excalidraw.md#^H22eu0Vk|PDF Location]]
-
-%%

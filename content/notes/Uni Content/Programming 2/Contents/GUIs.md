@@ -1,19 +1,7 @@
-![[GUIs.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/9UuR5iRgDd1qaqjJgPti" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 # Concepts
 
 - [[MVC]]
 - [[JavaFX]]
 - [[Event Dispatch Chain]]
 - [[Events]]
-
-
-%%
-# Excalidraw Links
-
-[[GUIs.excalidraw|Excalidraw]]
-
-- MVCs - [[GUIs.excalidraw#^IfthcqteW2V3FUG2An5mT|PDF Location]]
-- JavaFX - [[GUIs.excalidraw#^ocabQdnkVVkbdPazuJFFy|PDF Location]]
-- Event Driven Programming & The Event Dispatch Chain - [[GUIs.excalidraw#^5S69cugzmyuWSj8o0sEc5|PDF Location]]
-
-%%

@@ -1,17 +1,7 @@
-![[Trees.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/SzCLAkuc36QVKWpFZSWX" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
 # Concepts
 
 - [[Trees]]
 - [[Binary Trees]]
 - [[Binary Search Trees]]
-
-%%
-# Excalidraw Links
-
-[[Trees.excalidraw|Excalidraw]]
-
-- Trees - [[Excalidraw/Uni Content/Programming II/Trees.excalidraw.md#^HBJMrN8KGIGgni_HS76qv|PDF Location]]
-- Binary Trees - [[Excalidraw/Uni Content/Programming II/Trees.excalidraw.md#^Avrd5vSHa3uCAnooT9Nxq|PDF Location]]
-- Binary Search Trees - [[Trees.excalidraw#^JYSOdX-u3y9kKFt2JVimr|PDF Location]]
-
-%%

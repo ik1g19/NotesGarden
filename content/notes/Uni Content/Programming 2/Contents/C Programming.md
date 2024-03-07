@@ -1,23 +1,7 @@
-![[C Programming.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/DfcypUxqZs0Y7oYeuKdK" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 # Concepts
 
 - [[Memory Allocation]]
 - [[Pointers]]
 - [[Typedef]]
 - [[C]]
-
-%%
-# Excalidraw Links
-
-[[C Programming.excalidraw|Excalidraw]]
-
-- Memory - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^YS3a75cb|PDF Location]]
-- Pointers - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^YS3a75cb|PDF Location]]
-- Pointer Arithmetic - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^qZTkp1Dc|PDF Location]]
-- Arrays and Pointers - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^0WxQxyBg|PDF Location]]
-- Memory Allocation - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^0WxQxyBg|PDF Location]]
-- Functions - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^2iAeMxw1|PDF Location]]
-- Structures - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^BYXnrN8v|PDF Location]]
-- Typedef - [[Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md#^BYXnrN8v|PDF Location]]
-
-%%

@@ -1,4 +1,4 @@
-![[Software Testing and Unit Testing.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/ZaTs46qq3BizF6w8vh5L" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 # Concepts
 
 - [[White Box Testing]]
@@ -6,23 +6,3 @@
 - [[Unit Testing]]
 - [[JUnit]]
 - [[Integration Testing]]
-
-%%
-
-# Excalidraw Links
-
-[[Software Testing and Unit Testing.excalidraw|Excalidraw]]
-
-- Verification, Validation and Types of Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^ohQdS0Zt|PDF Location]]
-- White Box and Black Box Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^ohQdS0Zt|PDF Location]]
-- Unit Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^uMBtIFZE|PDF Location]]
-- Integration Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^uMBtIFZE|PDF Location]]
-- System Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^uMBtIFZE|PDF Location]]
-- Mock Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^vKlH6C2_eGS9nhgLfDB31|PDF Location]]
-- JUnit - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^DaK4dvDjkxw6yNyCGnxWn|PDF Location]]
-- Easy Mock - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^tAuJuFWx|PDF Location]]
-- Integration Testing - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^tAuJuFWx|PDF Location]]
-- Top Down Integration - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^tAuJuFWx|PDF Location]]
-- Bottom Up Integration - [[Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md#^yFchngtO|PDF Location]]
-
-%%

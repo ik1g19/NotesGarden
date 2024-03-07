@@ -1,14 +1,4 @@
-![[Iteration and Streaming in Java.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/NLdw3PINfQyUvjQrKhFb" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 # Concepts
 
 - [[Streams]]
-
-%%
-# Excalidraw Links
-
-[[Iteration and Streaming in Java.excalidraw|Excalidraw]]
-
-- Streams - [[Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.md#^LKDBNLMZN1RgQOaZmG1vx|PDF Location]]
-- Common Operations - [[Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.md#^kXKAOsN-K9TDIpxyUVccj|PDF Location]]
-
-%%

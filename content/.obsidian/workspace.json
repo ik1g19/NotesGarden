@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "f4b7d22dc5da4834",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md"
               }
             }
           }
@@ -150,36 +150,36 @@
   },
   "active": "1c7ba001fa0aca16",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-06 21.00.24.excalidraw.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
-    "_index.md",
-    "notes/Uni Content/Intelligent Systems/Intelligent Systems.md",
-    "concepts/ARP.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
-    "concepts/WiFi.md",
-    "Untitled.canvas",
-    "concepts/DDoS.md",
-    "concepts/RIP.md",
-    "concepts/Peer to Peer.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical, Architectural and Fundamental Models.excalidraw.md",
-    "concepts/UDP.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical, Architectural and Fundamental Models.excalidraw.svg",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
     "concepts/TCP.md",
-    "concepts/SOAP.md",
-    "concepts/MAC.md",
-    "concepts/IPv6.md",
-    "concepts/CIDR.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical, Architectural and Fundamental Models.md",
-    "Excalidraw/cropped_Distributed Systems and Networks.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
+    "concepts/DNS.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
+    "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
+    "notes/Uni Content/Programming 2/Programming II ToC.md",
+    "_index.md",
+    "notes/Uni Content/Programming 2/Contents/Iteration and Streaming in Java.md",
+    "Excalidraw/Uni Content/Programming II/Iteration and Streaming in Java.excalidraw.md",
+    "notes/Uni Content/Programming 2/Contents/C Programming.md",
+    "Excalidraw/Uni Content/Programming II/C Programming.excalidraw.md",
+    "notes/Uni Content/Programming 2/Contents/Software Testing and Unit Testing.md",
+    "Excalidraw/Uni Content/Programming II/Software Testing and Unit Testing.excalidraw.md",
+    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
+    "Excalidraw/Uni Content/Programming II/Synchronising Code.excalidraw.md",
+    "Excalidraw/Uni Content/Programming II/Multithreading.excalidraw.md",
+    "Excalidraw/Uni Content/Programming II/JVM.excalidraw.md",
+    "notes/Uni Content/Programming 2/Contents/File IO.md",
+    "Excalidraw/Uni Content/Programming II/File IO.excalidraw.md",
+    "notes/Uni Content/Programming 2/Contents/JavaFX Graphics.md",
+    "Excalidraw/Uni Content/Programming II/JavaFX Graphics.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical, Architectural and Fundamental Models.excalidraw.svg",
     "Excalidraw/cropped_Distributed Systems and Networks.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/MAC Physical and Link Layers CROP.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/MAC Internet and Network Layer CROP.excalidraw.md",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/SOAP Web Services CROP.excalidraw.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/SOAP Web Services CROP.excalidraw.png",
-    "Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Web Services.md",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.png",
     "Excalidraw/Uni Content/Distributed Systems and Networks/Web Services.excalidraw.svg",
     "Excalidraw/cropped_Web Services.excalidraw.png",

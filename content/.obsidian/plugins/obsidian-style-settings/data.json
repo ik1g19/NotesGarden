@@ -2,5 +2,11 @@
   "minimal-style@@italic-color@@dark": "#DDBF82",
   "minimal-style@@bold-color@@dark": "#80BE8C",
   "minimal-style@@code-normal@@dark": "#4FB1BC",
-  "minimal-style@@h1-size": "2rem"
+  "minimal-style@@h1-size": "2rem",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false
 }

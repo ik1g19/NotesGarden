@@ -1,4 +1,4 @@
-![[Physical and Link Layers.excalidraw.png|600]]
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 104.3454%;"><iframe src="https://link.excalidraw.com/readonly/xa0O4c42lslQO4iOFPLu" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
 # Concepts
 
@@ -8,22 +8,3 @@
 - [[MAC]]
 - [[Link Layer]]
 - [[CSMA]]
-
-%%
-# Excalidraw Links
-
-[[Physical and Link Layers.excalidraw|Excalidraw]]
-
-- OSI Model, TCP/IP, Tanenbaum Structure - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^nhl22IGy|PDF Location]]
-- Layer Encapsulation - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^nhl22IGy|PDF Location]]
-- Link Layer Functions - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^YhiWjkTy|PDF Location]]
-- Link Layer Acknowledgements - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^5DSxNVz0|PDF Location]]
-- Handling Ack and Errors - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^5DSxNVz0|PDF Location]]
-- Detecting Errors - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^NjKn1E2u|PDF Location]]
-- Framing - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
-- MAC - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
-- Ethernet - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
-- WiFi - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
-- CSMA/CD - [[Excalidraw/Uni Content/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md#^25eb5TvM|PDF Location]]
-
-%%
