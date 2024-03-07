@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f82a077d10905f",
+        "id": "544f228745ba13b1",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7ba001fa0aca16",
+            "id": "9f04093f8851fe1d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -61,
-                  "y": 126.8359375,
-                  "zoom": 0
-                }
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 450.5
   },
   "right": {
     "id": "f4b7d22dc5da4834",
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md"
               }
             }
           }
@@ -147,98 +144,66 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "7242930ef7be1bf6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ee179b20c1f2ee3e",
-        "type": "window",
-        "children": [
-          {
-            "id": "71e0c93ef88f0a6d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6c0b85e8f7afd286",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Untitled.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 532,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6c0b85e8f7afd286",
+  "active": "09b9b167534f9a41",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-85.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-84.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-83.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-82.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-81.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-80.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-79.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-78.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-77.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-76.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-75.png",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2.zip",
+    "notes/Uni Content/Programming 2/Programming II PNGs",
+    "notes/Uni Content/Programming 2/Programming 2.zip",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Reliable and Ordered Multicast.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Reliable and Ordered Multicast Canvas.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Application Layer Protocols.excalidraw.md",
-    "Pasted Image 20240307130625_894.png",
-    "Pasted Image 20240307130609_602.png",
-    "Pasted Image 20240307130039_496.png",
-    "Pasted Image 20240307130051_969.png",
-    "Pasted Image 20240307124950_636.png",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-132.png",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-131.png",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-130.png",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-128.png",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-129.png",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Transactions.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Distributed Transactions.excalidraw.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Distributed Transactions Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Leader Election.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Leader Election Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Web Services.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Web Services Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Remote Invocation Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Remote Invocation (Section).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Mutual Exclusion.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Distributed Mutual Exclusion Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical, Architectural and Fundamental Models.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Physical, Architectural and Fundamental Models Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Distributed Algorithms & Clocks Canvas.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Characteristics of Distributed Systems Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/MQTT and CoAP (Distributed Systems & Networks).md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/MQTT and CoAP Canvas.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
+    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Application Layer Protocols.excalidraw.md",
+    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs",
+    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Distributed Transactions.excalidraw.md",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks.pdf",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Web Services.excalidraw.md",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Transport Layer.excalidraw.md",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Remote Invocation.excalidraw.md",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Reliable and Ordered Multicast.excalidraw.md",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Physical, Architectural and Fundamental Models.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Physical and Link Layers.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Network Security (Distributed Systems and Networks).excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/MQTT and CoAP (Distributed Systems & Networks).excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Leader Election.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/IPv6.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Internet & Network Layer.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Domain Name System.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Distributed Mutual Exclusion.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Distributed Algorithms & Clocks.excalidraw.md",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks/Characteristics of Distributed Systems.excalidraw.md",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks",
     "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
-    "concepts/TCP.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
     "notes/GPT Notes/Deep Learning",
     "notes/GPT Notes",
-    "notes/Back End Development Questions",
-    "notes/CV Notes from Audioscenic",
-    "notes/NodeJS Interview Questions",
-    "notes/System Theory/Images"
+    "notes/Back End Development Questions"
   ]
 }

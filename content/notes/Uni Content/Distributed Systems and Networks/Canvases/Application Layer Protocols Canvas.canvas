@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5f934717cd3c88f4","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-042.png","x":88,"y":-520,"width":262,"height":400},
+		{"id":"52140f30bd9360f7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-040.png","x":-540,"y":-520,"width":311,"height":400},
+		{"id":"0322c5927e145042","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-043.png","x":-540,"y":-100,"width":281,"height":400},
+		{"id":"38aca298a53ab1c8","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-041.png","x":-209,"y":-520,"width":277,"height":399},
+		{"id":"b23271b2f9581697","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-044.png","x":-239,"y":-100,"width":267,"height":400}
+	],
+	"edges":[]
+}
