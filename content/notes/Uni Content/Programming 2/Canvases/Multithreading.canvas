@@ -1,13 +1,16 @@
 {
 	"nodes":[
-		{"id":"420accd3544e275b","x":-803,"y":10,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-46.png"},
-		{"id":"85706b6d77b8bf36","x":532,"y":10,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-49.png"},
-		{"id":"75c9d09608fa1a05","x":977,"y":10,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-50.png"},
-		{"id":"2cf3abc928394cbc","x":1422,"y":10,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-51.png"},
-		{"id":"210cac2b0ba28e60","x":1867,"y":10,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-52.png"},
-		{"id":"9d42ffee66725f9c","x":2312,"y":10,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-53.png"},
-		{"id":"e4836a006c6e458f","x":-358,"y":10,"width":316,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-47.png"},
-		{"id":"b93ac39d26da75ba","x":87,"y":10,"width":272,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-48.png"}
+		{"id":"cdc4a0159fe53ede","type":"group","x":-880,"y":-10,"width":1680,"height":440,"color":"1","label":"Creating Threads/Thread Methods"},
+		{"id":"2133f800d397cc32","type":"group","x":960,"y":-10,"width":662,"height":440,"color":"2","label":"Interrupting Threads/Shared Variable Concurrency/Lost Updates"},
+		{"id":"7816170cc652f90b","type":"group","x":1760,"y":-10,"width":360,"height":440,"color":"3","label":"Data Corruption/Strategies for Thread Programming/Safe Multithreading via Synchronization"},
+		{"id":"e4836a006c6e458f","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-47.png","x":-511,"y":10,"width":316,"height":400},
+		{"id":"b93ac39d26da75ba","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-48.png","x":-155,"y":10,"width":272,"height":400},
+		{"id":"85706b6d77b8bf36","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-49.png","x":157,"y":10,"width":283,"height":400},
+		{"id":"75c9d09608fa1a05","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-50.png","x":480,"y":10,"width":262,"height":400},
+		{"id":"420accd3544e275b","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-46.png","x":-840,"y":10,"width":289,"height":400},
+		{"id":"2cf3abc928394cbc","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-51.png","x":980,"y":10,"width":318,"height":400},
+		{"id":"210cac2b0ba28e60","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-52.png","x":1318,"y":10,"width":284,"height":400},
+		{"id":"9d42ffee66725f9c","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-53.png","x":1792,"y":10,"width":300,"height":400}
 	],
 	"edges":[]
 }

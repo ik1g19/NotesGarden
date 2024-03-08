@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"c63e51d97363c3e1","x":-824,"y":61,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-15.png"},
-		{"id":"cc273b60596e7f22","x":511,"y":61,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-18.png"},
-		{"id":"5d40e6cf58d6874d","x":-379,"y":61,"width":271,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-16.png"},
-		{"id":"3dd193640902522e","x":66,"y":61,"width":267,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-17.png"}
+		{"id":"5529a338ecc39b07","x":-160,"y":41,"width":630,"height":440,"color":"2","type":"group","label":"Implementation/Binary Search Trees"},
+		{"id":"94916053fca420d2","x":-844,"y":41,"width":592,"height":440,"color":"1","type":"group","label":"Trees/Binary Trees"},
+		{"id":"c63e51d97363c3e1","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-15.png","x":-824,"y":61,"width":261,"height":400},
+		{"id":"5d40e6cf58d6874d","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-16.png","x":-543,"y":61,"width":271,"height":399},
+		{"id":"3dd193640902522e","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-17.png","x":-140,"y":61,"width":267,"height":400},
+		{"id":"cc273b60596e7f22","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-18.png","x":147,"y":61,"width":303,"height":400}
 	],
 	"edges":[]
 }

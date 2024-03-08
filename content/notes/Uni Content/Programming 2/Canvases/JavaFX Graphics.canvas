@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"9ca25612037acd5b","x":-657,"y":157,"width":270,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-24.png"},
-		{"id":"33599bdf159d87ba","x":-212,"y":157,"width":292,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-25.png"}
+		{"id":"14bea2088ce67f5e","x":-677,"y":137,"width":629,"height":440,"color":"1","type":"group","label":"Graphics"},
+		{"id":"9ca25612037acd5b","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-24.png","x":-657,"y":157,"width":270,"height":400},
+		{"id":"33599bdf159d87ba","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-25.png","x":-360,"y":157,"width":292,"height":400}
 	],
 	"edges":[]
 }

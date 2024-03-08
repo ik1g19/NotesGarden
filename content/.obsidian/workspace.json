@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "file": "notes/Uni Content/Programming 2/Canvases/Synchronising Code and Methods.canvas",
                 "viewState": {
-                  "x": -50,
-                  "y": 70,
-                  "zoom": -1.0741414627525057
+                  "x": 363.5180551678948,
+                  "y": 563.8546178136556,
+                  "zoom": -1.5365639632863206
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "file": "notes/Uni Content/Programming 2/Canvases/Synchronising Code and Methods.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "file": "notes/Uni Content/Programming 2/Canvases/Synchronising Code and Methods.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas"
+                "file": "notes/Uni Content/Programming 2/Canvases/Synchronising Code and Methods.canvas"
               }
             }
           }
@@ -151,75 +151,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "bff1ab6a34786189",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a86818d60e222dbb",
-        "type": "window",
-        "children": [
-          {
-            "id": "62201a6503173e59",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "23468c3b68e4b61c",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 532,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "23468c3b68e4b61c",
+  "active": "cfc45a5155fb6159",
   "lastOpenFiles": [
-    "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
     "notes/Uni Content/Programming 2/Contents/Control Flow.md",
-    "concepts/JVM.md",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-33.png",
+    "notes/Uni Content/Programming 2/Canvases/Multithreading.canvas",
     "notes/Uni Content/Programming 2/Programming II ToC.md",
     "notes/Uni Content/Programming 2/Contents/File IO.md",
+    "notes/Uni Content/Programming 2/Canvases/File IO.canvas",
     "notes/Uni Content/Programming 2/Contents/JavaFX Graphics.md",
+    "notes/Uni Content/Programming 2/Canvases/JavaFX Graphics.canvas",
     "notes/Uni Content/Programming 2/Contents/Programming Concepts.md",
+    "notes/Uni Content/Programming 2/Canvases/Programming Concepts.canvas",
     "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
+    "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
     "notes/Uni Content/Programming 2/Contents/GUIs.md",
+    "notes/Uni Content/Programming 2/Canvases/GUIs.canvas",
+    "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+    "concepts/JVM.md",
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-33.png",
     "notes/Uni Content/Programming 2/Canvases/Iteration and Streaming in Java.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-81.png",
     "notes/Uni Content/Programming 2/Canvases/C Programming.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-72.png",
     "notes/Uni Content/Programming 2/Canvases/Software Testing and Unit Testing.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-61.png",
-    "notes/Uni Content/Programming 2/Canvases/Synchronising Code and Methods.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-54.png",
-    "notes/Uni Content/Programming 2/Canvases/Multithreading.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-46.png",
-    "notes/Uni Content/Programming 2/Canvases/File IO.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-26.png",
-    "notes/Uni Content/Programming 2/Canvases/JavaFX Graphics.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-24.png",
-    "notes/Uni Content/Programming 2/Canvases/Programming Concepts.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-19.png",
-    "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-15.png",
     "notes/Uni Content/Programming 2/Canvases",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",

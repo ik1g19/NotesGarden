@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"74ff211281372992","x":-770,"y":13,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-54.png"},
-		{"id":"c2871424f0174f50","x":565,"y":13,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-57.png"},
-		{"id":"20a8eb6b73858d06","x":1010,"y":13,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-58.png"},
-		{"id":"1d123c7fe185f9eb","x":1455,"y":13,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-59.png"},
-		{"id":"7eba420a7fb10e09","x":1900,"y":13,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-60.png"},
-		{"id":"f6185a2c468f4a5b","x":-325,"y":13,"width":303,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-55.png"},
-		{"id":"1e960e0d7bd43f29","x":120,"y":13,"width":289,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-56.png"}
+		{"id":"f279e5be5a97c302","type":"group","x":-790,"y":-20,"width":1510,"height":453,"label":"Communicating between Threads/Monitors/Threadings and JavaFX"},
+		{"id":"74ff211281372992","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-54.png","x":-770,"y":13,"width":265,"height":400},
+		{"id":"1d123c7fe185f9eb","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-59.png","x":1455,"y":13,"width":287,"height":400},
+		{"id":"7eba420a7fb10e09","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-60.png","x":1900,"y":13,"width":287,"height":400},
+		{"id":"f6185a2c468f4a5b","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-55.png","x":-485,"y":13,"width":303,"height":400},
+		{"id":"1e960e0d7bd43f29","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-56.png","x":-162,"y":13,"width":289,"height":400},
+		{"id":"c2871424f0174f50","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-57.png","x":160,"y":13,"width":252,"height":400},
+		{"id":"20a8eb6b73858d06","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-58.png","x":440,"y":13,"width":257,"height":400}
 	],
 	"edges":[]
 }
