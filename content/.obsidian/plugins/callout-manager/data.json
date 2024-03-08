@@ -1,0 +1,44 @@
+{
+  "callouts": {
+    "custom": [
+      "extract"
+    ],
+    "settings": {
+      "Extract": [
+        {
+          "changes": {
+            "icon": "lucide-newspaper"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "108, 188, 172"
+          }
+        }
+      ],
+      "extract": [
+        {
+          "changes": {
+            "icon": "lucide-newspaper",
+            "color": "108, 188, 172"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

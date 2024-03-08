@@ -1,4 +1,4 @@
-![[IPv6 Canvas.canvas|IPv6 Canvas]]
+![[IPv6.canvas|IPv6 Canvas]]
 
 # Concepts
 

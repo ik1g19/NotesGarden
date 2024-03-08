@@ -1,4 +1,4 @@
-![[Characteristics of Distributed Systems Canvas.canvas|Characteristics of Distributed Systems Canvas]]
+![[Characteristics of Distributed Systems.canvas|Characteristics of Distributed Systems Canvas]]
 
 # Concepts
 

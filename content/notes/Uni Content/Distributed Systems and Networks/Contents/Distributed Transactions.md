@@ -1,1 +1,1 @@
-![[Distributed Transactions Canvas.canvas|Distributed Transactions Canvas]]
+![[Distributed Transactions.canvas|Distributed Transactions Canvas]]

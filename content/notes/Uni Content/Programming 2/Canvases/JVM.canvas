@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"2ec96559ac6cf225","type":"group","x":125,"y":240,"width":1270,"height":440,"color":"5","label":"Exceptions/The Exception Class"},
+		{"id":"f30c07d078be2e5b","type":"group","x":-960,"y":240,"width":919,"height":440,"color":"4","label":"Recursion/Statics"},
+		{"id":"5dfcbc5b56bf9e0e","type":"group","x":-960,"y":-500,"width":680,"height":440,"color":"1","label":"Virtual Machines/Loading Classes"},
+		{"id":"f377abd4af106b00","type":"group","x":-80,"y":-504,"width":665,"height":449,"color":"2","label":"The Constant Pool/The Heap/Arrays in the Heap"},
+		{"id":"37b1e8f2bbf82fdc","type":"group","x":760,"y":-504,"width":660,"height":440,"color":"3","label":"Thread Local Memory/The Operand Stack"},
+		{"id":"4aca313178802e00","type":"file","file":"concepts/JVM.md","x":-1520,"y":-540,"width":460,"height":479},
+		{"id":"1325c07d197a37d9","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-33.png","x":-940,"y":-480,"width":274,"height":399},
+		{"id":"723309dfd903e21f","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-39.png","x":-940,"y":260,"width":269,"height":400},
+		{"id":"e5bbb2b8af5a8ef2","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-40.png","x":-651,"y":260,"width":296,"height":400},
+		{"id":"fde9f21b15dd06e6","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-37.png","x":780,"y":-484,"width":295,"height":400},
+		{"id":"984e4ddf2a656ec2","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-41.png","x":-335,"y":260,"width":274,"height":400},
+		{"id":"e427f81c15886d94","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-34.png","x":-620,"y":-481,"width":312,"height":400},
+		{"id":"d716444f2f6bf4d9","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-36.png","x":256,"y":-475,"width":309,"height":400},
+		{"id":"fbfdc030f1fa28a3","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-38.png","x":1117,"y":-484,"width":283,"height":400},
+		{"id":"d6e31cadd57e4c62","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-35.png","x":-60,"y":-475,"width":276,"height":400},
+		{"id":"f24bd356971eae5f","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-42.png","x":145,"y":260,"width":269,"height":400},
+		{"id":"fd6ab464025a6fee","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-43.png","x":434,"y":260,"width":312,"height":400},
+		{"id":"95c6ae549ab769a5","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-44.png","x":766,"y":260,"width":273,"height":400},
+		{"id":"6badd1f65353e18e","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-45.png","x":1059,"y":260,"width":316,"height":400}
+	],
+	"edges":[]
+}

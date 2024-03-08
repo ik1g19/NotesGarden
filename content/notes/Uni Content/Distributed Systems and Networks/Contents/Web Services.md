@@ -1,4 +1,4 @@
-![[Web Services Canvas.canvas|Web Services Canvas]]
+![[Web Services.canvas|Web Services Canvas]]
 
 # Concepts
 

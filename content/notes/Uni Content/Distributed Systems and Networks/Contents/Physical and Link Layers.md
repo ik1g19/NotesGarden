@@ -1,5 +1,5 @@
 
-![[Physical and Link Layers Canvas.canvas]]
+![[Physical and Link Layers.canvas]]
 
 # Concepts
 

@@ -1,4 +1,4 @@
-![[MQTT and CoAP Canvas.canvas|MQTT and CoAP Canvas]]
+![[MQTT and CoAP.canvas|MQTT and CoAP Canvas]]
 
 # Concepts
 

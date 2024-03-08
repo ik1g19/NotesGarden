@@ -1,1 +1,1 @@
-![[Distributed Mutual Exclusion Canvas.canvas|Distributed Mutual Exclusion Canvas]]
+![[Distributed Mutual Exclusion.canvas|Distributed Mutual Exclusion Canvas]]

@@ -1,4 +1,4 @@
-![[Internet & Network Layer Canvas.canvas|Internet & Network Layer Canvas]]
+![[Internet & Network Layer.canvas|Internet & Network Layer Canvas]]
 # Concepts
 
 - [[CIDR]]

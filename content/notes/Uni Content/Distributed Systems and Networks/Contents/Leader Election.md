@@ -1,1 +1,1 @@
-![[Leader Election Canvas.canvas|Leader Election Canvas]]
+![[Leader Election.canvas|Leader Election Canvas]]

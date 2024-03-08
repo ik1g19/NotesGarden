@@ -1,1 +1,1 @@
-![[Physical, Architectural and Fundamental Models Canvas.canvas|Physical, Architectural and Fundamental Models Canvas]]
+![[Physical, Architectural and Fundamental Models.canvas|Physical, Architectural and Fundamental Models Canvas]]

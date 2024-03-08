@@ -1,4 +1,4 @@
-![[Distributed Algorithms & Clocks Canvas.canvas|Distributed Algorithms & Clocks Canvas]]
+![[Distributed Algorithms & Clocks.canvas|Distributed Algorithms & Clocks Canvas]]
 
 # Concepts
 

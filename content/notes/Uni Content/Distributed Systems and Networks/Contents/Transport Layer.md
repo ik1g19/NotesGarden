@@ -1,4 +1,4 @@
-![[Transport Layer Canvas.canvas|Transport Layer Canvas]]
+![[Transport Layer.canvas|Transport Layer Canvas]]
 # Concepts
 
 - [[TCP]]

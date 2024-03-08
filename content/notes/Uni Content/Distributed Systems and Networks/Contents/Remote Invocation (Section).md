@@ -1,4 +1,4 @@
-![[Remote Invocation Canvas.canvas|Remote Invocation Canvas]]
+![[Remote Invocation.canvas|Remote Invocation Canvas]]
 
 # Concepts
 

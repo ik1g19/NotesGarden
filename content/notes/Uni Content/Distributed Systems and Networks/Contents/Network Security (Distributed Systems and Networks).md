@@ -1,4 +1,4 @@
-![[Network Security Canvas.canvas|Network Security Canvas]]
+![[Network Security.canvas|Network Security Canvas]]
 
 # Concepts
 

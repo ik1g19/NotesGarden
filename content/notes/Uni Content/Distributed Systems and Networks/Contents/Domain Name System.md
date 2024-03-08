@@ -1,4 +1,4 @@
-![[Domain Name System Canvas.canvas|Domain Name System Canvas]]
+![[Domain Name System.canvas|Domain Name System Canvas]]
 
 # Concepts
 
