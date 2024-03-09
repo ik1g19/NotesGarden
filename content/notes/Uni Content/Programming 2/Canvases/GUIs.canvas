@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"d04bc8878a7ce519","x":-520,"y":-80,"width":1480,"height":880,"color":"2","type":"group","label":"Implementing MVC Pattern in Java/Building Dumb GUIs in Java"},
-		{"id":"13971b4000a357fc","x":-940,"y":920,"width":636,"height":440,"color":"3","type":"group","label":"Event Driven Programming"},
-		{"id":"6445bb9f7471e62b","x":-940,"y":-80,"width":360,"height":480,"color":"1","type":"group","label":"GUIs/Model View Controller Diagram"},
-		{"id":"aa0d9db42ed4cdfb","x":-240,"y":927,"width":294,"height":433,"color":"4","type":"group","label":"Event Dispatch Chain/Change Listeners"},
+		{"id":"d04bc8878a7ce519","type":"group","x":-520,"y":-80,"width":1480,"height":880,"color":"2","label":"Implementing MVC Pattern in Java/Building Dumb GUIs in Java"},
+		{"id":"13971b4000a357fc","type":"group","x":-940,"y":920,"width":636,"height":440,"color":"3","label":"Event Driven Programming"},
+		{"id":"6445bb9f7471e62b","type":"group","x":-940,"y":-80,"width":360,"height":480,"color":"1","label":"GUIs/Model View Controller Diagram"},
+		{"id":"aa0d9db42ed4cdfb","type":"group","x":-240,"y":927,"width":294,"height":433,"color":"4","label":"Event Dispatch Chain/Change Listeners"},
 		{"id":"cd99bd76d5a53962","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-01.png","x":-913,"y":-32,"width":283,"height":400},
 		{"id":"989f2f83f923cdcb","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-03.png","x":-208,"y":-60,"width":277,"height":400},
 		{"id":"ee67024acb3f63f4","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-04.png","x":89,"y":-60,"width":267,"height":400},

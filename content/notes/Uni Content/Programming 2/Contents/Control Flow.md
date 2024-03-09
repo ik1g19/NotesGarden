@@ -10,12 +10,16 @@
 
 ## JVM
 
+<iframe src="http://server.isaacklugman.com/programming-II/jvm.html" width="700px" height="500px"></iframe>
+
 %%
 
 ![[JVM.canvas|JVM]]
 %%
 
 ## Multithreading
+
+<iframe src="http://server.isaacklugman.com/programming-II/multithreading.html" width="700px" height="500px"></iframe>
 
 %%
 
@@ -25,7 +29,7 @@
 
 ## Synchronising Code and Methods
 
-<iframe src="http://server.isaacklugman.com/synchronising-code-and-methods.html" width="700px" height="500px"></iframe>
+<iframe src="http://server.isaacklugman.com/programming-II/synchronising-code-and-methods.html" width="700px" height="500px"></iframe>
 
 
 %%

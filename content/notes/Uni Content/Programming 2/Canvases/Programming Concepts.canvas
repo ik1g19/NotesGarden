@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"694936ba6a8f8566","x":-770,"y":0,"width":910,"height":440,"color":"1","type":"group","label":"Nested Classes/Local Classes/Objects without References"},
-		{"id":"15e870f689a1499b","x":240,"y":0,"width":655,"height":440,"color":"2","type":"group","label":"Anonymous Class Definitions/Lambda Expressions"},
+		{"id":"694936ba6a8f8566","type":"group","x":-770,"y":0,"width":910,"height":440,"color":"1","label":"Nested Classes/Local Classes/Objects without References"},
+		{"id":"15e870f689a1499b","type":"group","x":240,"y":0,"width":655,"height":440,"color":"2","label":"Anonymous Class Definitions/Lambda Expressions"},
 		{"id":"c58a180693d84a27","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-19.png","x":-750,"y":20,"width":276,"height":400},
 		{"id":"c6b40f191cf44448","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-20.png","x":-454,"y":20,"width":276,"height":400},
 		{"id":"2e68faae9da477d6","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-21.png","x":-158,"y":20,"width":274,"height":400},
 		{"id":"798b8d3e94ca072d","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-22.png","x":260,"y":20,"width":316,"height":400},
-		{"id":"80723d1a4fad39a1","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-23.png","x":596,"y":20,"width":279,"height":400}
+		{"id":"80723d1a4fad39a1","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-23.png","x":596,"y":20,"width":279,"height":399}
 	],
 	"edges":[]
 }
