@@ -1,10 +1,16 @@
 {
 	"nodes":[
-		{"id":"5f934717cd3c88f4","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-042.png","x":88,"y":-520,"width":262,"height":400},
-		{"id":"52140f30bd9360f7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-040.png","x":-540,"y":-520,"width":311,"height":400},
-		{"id":"0322c5927e145042","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-043.png","x":-540,"y":-100,"width":281,"height":400},
-		{"id":"38aca298a53ab1c8","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-041.png","x":-209,"y":-520,"width":277,"height":399},
-		{"id":"b23271b2f9581697","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-044.png","x":-239,"y":-100,"width":267,"height":400}
+		{"id":"b3483daee913b3d1","x":-572,"y":0,"width":729,"height":700,"color":"3","type":"group","label":"File Sharing Protocols"},
+		{"id":"479079af97b52e4b","x":-160,"y":-551,"width":896,"height":440,"color":"2","type":"group","label":"SMTP/IMAP/HTTP/HTTP2/QUIC/RTSP/"},
+		{"id":"b314df918d65874f","x":-524,"y":200,"width":608,"height":440,"color":"4","type":"group","label":"SMB/NFS/P2P"},
+		{"id":"d4dc9719320c860c","x":-572,"y":-551,"width":352,"height":431,"color":"1","type":"group","label":"DHCP/Telnet"},
+		{"id":"52140f30bd9360f7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-040.png","x":-550,"y":-522,"width":311,"height":400},
+		{"id":"38aca298a53ab1c8","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-041.png","x":-140,"y":-531,"width":277,"height":399},
+		{"id":"5f934717cd3c88f4","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-042.png","x":157,"y":-531,"width":262,"height":400},
+		{"id":"0322c5927e145042","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-043.png","x":439,"y":-531,"width":281,"height":400},
+		{"id":"a93288df2289e9eb","x":435,"y":-340,"width":288,"height":211,"type":"text","text":""},
+		{"id":"222493b8527328a7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-043.png","x":-504,"y":220,"width":281,"height":400},
+		{"id":"b23271b2f9581697","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-044.png","x":-203,"y":220,"width":267,"height":400}
 	],
 	"edges":[]
 }
