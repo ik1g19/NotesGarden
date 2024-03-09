@@ -1,14 +1,18 @@
 {
 	"nodes":[
-		{"id":"a02b1b7e66fdf962","x":626,"y":7,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-75.png"},
-		{"id":"84fe2888a1a58722","x":1071,"y":7,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-76.png"},
-		{"id":"2e1b64a237d0ea84","x":1516,"y":7,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-77.png"},
-		{"id":"f9b93225eca4e115","x":1961,"y":7,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-78.png"},
-		{"id":"35080a15bd665f64","x":2406,"y":7,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-79.png"},
-		{"id":"25f281773f5a76c5","x":2851,"y":7,"width":400,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-80.png"},
-		{"id":"83ca31f57bf8790d","x":-709,"y":7,"width":280,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-72.png"},
-		{"id":"9000fae9d98ab632","x":-264,"y":7,"width":263,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-73.png"},
-		{"id":"e2050e9c84b65c35","x":181,"y":7,"width":290,"height":400,"type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-74.png"}
+		{"id":"bf411680ae29c99a","type":"group","x":-702,"y":640,"width":863,"height":440,"color":"3","label":"Arrays and Pointers/Memory Allocation/Functions"},
+		{"id":"c0ef4467dfd8331c","type":"group","x":161,"y":-13,"width":622,"height":440,"color":"2","label":"Memory/Pointers/Pointer Arithmetic"},
+		{"id":"e002995d0b502056","type":"group","x":320,"y":640,"width":606,"height":440,"color":"4","label":"Structures/Typedef"},
+		{"id":"31d83e9faf4877f6","type":"group","x":-729,"y":-13,"width":603,"height":440,"color":"1","label":"C Programming"},
+		{"id":"a02b1b7e66fdf962","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-75.png","x":491,"y":7,"width":272,"height":400},
+		{"id":"83ca31f57bf8790d","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-72.png","x":-709,"y":7,"width":280,"height":400},
+		{"id":"9000fae9d98ab632","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-73.png","x":-409,"y":7,"width":263,"height":400},
+		{"id":"e2050e9c84b65c35","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-74.png","x":181,"y":7,"width":290,"height":400},
+		{"id":"84fe2888a1a58722","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-76.png","x":-682,"y":660,"width":250,"height":400},
+		{"id":"2e1b64a237d0ea84","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-77.png","x":-412,"y":660,"width":255,"height":400},
+		{"id":"f9b93225eca4e115","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-78.png","x":-137,"y":660,"width":278,"height":400},
+		{"id":"35080a15bd665f64","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-79.png","x":340,"y":660,"width":270,"height":400},
+		{"id":"25f281773f5a76c5","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-80.png","x":630,"y":660,"width":276,"height":400}
 	],
 	"edges":[]
 }
