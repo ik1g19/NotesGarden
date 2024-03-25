@@ -11,14 +11,11 @@
             "id": "b086ddab0cdac173",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
-                "viewState": {
-                  "x": -579.3015121557124,
-                  "y": -228.6484300339651,
-                  "zoom": -0.7408081294191724
-                }
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas"
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md"
               }
             }
           },
@@ -176,6 +173,18 @@
   },
   "active": "b086ddab0cdac173",
   "lastOpenFiles": [
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325022110.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325021734.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325021035.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325020619.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Basic Movement and Collision.md",
+    "notes/Other Content.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325015547.png",
+    "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
     "notes/Uni Content/Programming 2/Contents/Control Flow.md",
     "notes/Uni Content/Programming 2/Programming II ToC.md",
     "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
@@ -187,10 +196,6 @@
     "Paper Note PNGs/Programming II PNGs/Programming 2-82.png",
     "Paper Note PNGs/Programming II PNGs/Programming 2-83.png",
     "Paper Note PNGs/Programming II PNGs/Programming 2-80.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-79.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-78.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-75.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-77.png",
     "Paper Note PNGs/Programming II PNGs",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/test.py",
     "_index.md",
@@ -217,20 +222,12 @@
     "notes/Uni Content/Computer Vision/Covariance and Principal Components.md",
     "concepts/Eigenfaces.md",
     "notes/Uni Content/Computer Vision/Large Scale Image Search.md",
-    "notes/Uni Content/Computer Vision/Edge Detection.md",
-    "notes/Uni Content/Computer Vision/Finding Shapes.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Application Layer Protocols.canvas",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical, Architectural and Fundamental Models.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Domain Name System.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Transport Layer.canvas",
     "notes/Uni Content/Programming 2/Canvases/Programming Concepts.canvas",
-    "notes/Uni Content/Programming 2/Canvases/GUIs.canvas",
     "notes/Domain Management and Apache Deployment",
     "notes/Uni Content/Programming 2/Canvases",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2.zip",
-    "notes/Uni Content/Programming 2/Programming II PNGs",
-    "notes/Uni Content/Programming 2/Programming 2.zip"
+    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2.zip"
   ]
 }

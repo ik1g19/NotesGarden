@@ -9,7 +9,7 @@
 
 #### [NodeJS](notes/NodeJS/NodeJS.md)
 
-#### [[How to Make an RPG in GameMaker Studio]]
+#### [[How to Make an RPG in GameMaker Studio ToC|How to Make an RPG in GameMaker Studio]]
 
 # Interview Notes
 
