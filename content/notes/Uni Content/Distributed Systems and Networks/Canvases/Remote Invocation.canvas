@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"97d229de8a82497b","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-099.png","x":-520,"y":1060,"width":276,"height":400},
-		{"id":"353ee717a6325b0d","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-100.png","x":-164,"y":1060,"width":299,"height":400},
-		{"id":"2e77bb40b4a3eb6b","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-101.png","x":215,"y":1060,"width":277,"height":400},
-		{"id":"ed9fbeba830a41b7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-102.png","x":572,"y":1060,"width":293,"height":400},
-		{"id":"a7728d1c4719e620","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-103.png","x":945,"y":1060,"width":277,"height":399},
-		{"id":"c62744e68494a392","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-104.png","x":1302,"y":1060,"width":301,"height":400},
-		{"id":"802dc3a4aa42b1df","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-105.png","x":1683,"y":1060,"width":280,"height":400}
+		{"id":"97d229de8a82497b","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-099.png","x":-520,"y":1060,"width":276,"height":400},
+		{"id":"353ee717a6325b0d","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-100.png","x":-164,"y":1060,"width":299,"height":400},
+		{"id":"2e77bb40b4a3eb6b","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-101.png","x":215,"y":1060,"width":277,"height":400},
+		{"id":"ed9fbeba830a41b7","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-102.png","x":572,"y":1060,"width":293,"height":400},
+		{"id":"a7728d1c4719e620","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-103.png","x":945,"y":1060,"width":277,"height":399},
+		{"id":"c62744e68494a392","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-104.png","x":1302,"y":1060,"width":301,"height":400},
+		{"id":"802dc3a4aa42b1df","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-105.png","x":1683,"y":1060,"width":280,"height":400}
 	],
 	"edges":[]
 }

@@ -4,15 +4,15 @@
 		{"id":"c84daf58bc9c6a57","type":"group","x":-220,"y":-220,"width":895,"height":440,"color":"1","label":"Looking Up Data in the DNS/DNS Resolves/Finding DNS Servers"},
 		{"id":"c2ae5fd01b3578ee","type":"group","x":-220,"y":320,"width":728,"height":439,"color":"3","label":"Routing Information Protocol/RIP Limitations"},
 		{"id":"c6cea814909b71b9","type":"group","x":740,"y":-220,"width":612,"height":440,"color":"2","label":"IP Routing Protocols/Routing within a Site/Types of Routing Protocol"},
-		{"id":"90bb3a2de1d6468e","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-024.png","x":-200,"y":-200,"width":276,"height":400},
-		{"id":"fe5ce27c5452a9d1","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-025.png","x":96,"y":-200,"width":260,"height":399},
-		{"id":"46d99de854f76328","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-026.png","x":376,"y":-200,"width":279,"height":399},
-		{"id":"a488859e8471c683","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-027.png","x":760,"y":-200,"width":255,"height":400},
-		{"id":"b77b2bf3a04ebc5e","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-028.png","x":1035,"y":-200,"width":297,"height":400},
-		{"id":"33232daeba6814ab","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-030.png","x":617,"y":340,"width":274,"height":399},
-		{"id":"3d1c7d5c95f564f4","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-031.png","x":911,"y":340,"width":262,"height":400},
-		{"id":"bc15aa5a797cca88","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-032.png","x":1193,"y":340,"width":283,"height":400},
-		{"id":"a7d462299382fb55","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-029.png","x":0,"y":340,"width":264,"height":400}
+		{"id":"90bb3a2de1d6468e","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-024.png","x":-200,"y":-200,"width":276,"height":400},
+		{"id":"fe5ce27c5452a9d1","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-025.png","x":96,"y":-200,"width":260,"height":399},
+		{"id":"46d99de854f76328","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-026.png","x":376,"y":-200,"width":279,"height":399},
+		{"id":"a488859e8471c683","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-027.png","x":760,"y":-200,"width":255,"height":400},
+		{"id":"b77b2bf3a04ebc5e","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-028.png","x":1035,"y":-200,"width":297,"height":400},
+		{"id":"33232daeba6814ab","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-030.png","x":617,"y":340,"width":274,"height":399},
+		{"id":"3d1c7d5c95f564f4","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-031.png","x":911,"y":340,"width":262,"height":400},
+		{"id":"bc15aa5a797cca88","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-032.png","x":1193,"y":340,"width":283,"height":400},
+		{"id":"a7d462299382fb55","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-029.png","x":0,"y":340,"width":264,"height":400}
 	],
 	"edges":[]
 }

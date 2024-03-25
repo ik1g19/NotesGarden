@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"df4980359feb722f","type":"group","x":700,"y":78,"width":938,"height":440,"color":"2","label":"Working with Streams/Common Operations"},
 		{"id":"4cde193c3214a3f2","type":"group","x":-58,"y":78,"width":653,"height":440,"color":"1","label":"Intro/Streams"},
-		{"id":"cc08f155ad6a7c77","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-81.png","x":-38,"y":98,"width":290,"height":400},
-		{"id":"48801ad8f96eb2f3","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-82.png","x":272,"y":98,"width":303,"height":400},
-		{"id":"e53fd2dfbd265cef","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-83.png","x":720,"y":98,"width":275,"height":400},
-		{"id":"25cd2f80a76215a7","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-84.png","x":1015,"y":98,"width":285,"height":400},
-		{"id":"aeb458afdf48448b","type":"file","file":"notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-85.png","x":1320,"y":98,"width":298,"height":400}
+		{"id":"cc08f155ad6a7c77","type":"file","file":"Paper Note PNGs/Programming II PNGs/Programming 2-81.png","x":-38,"y":98,"width":290,"height":400},
+		{"id":"48801ad8f96eb2f3","type":"file","file":"Paper Note PNGs/Programming II PNGs/Programming 2-82.png","x":272,"y":98,"width":303,"height":400},
+		{"id":"e53fd2dfbd265cef","type":"file","file":"Paper Note PNGs/Programming II PNGs/Programming 2-83.png","x":720,"y":98,"width":275,"height":400},
+		{"id":"25cd2f80a76215a7","type":"file","file":"Paper Note PNGs/Programming II PNGs/Programming 2-84.png","x":1015,"y":98,"width":285,"height":400},
+		{"id":"aeb458afdf48448b","type":"file","file":"Paper Note PNGs/Programming II PNGs/Programming 2-85.png","x":1320,"y":98,"width":298,"height":400}
 	],
 	"edges":[]
 }

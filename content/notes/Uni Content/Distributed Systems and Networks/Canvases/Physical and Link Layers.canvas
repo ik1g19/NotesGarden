@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"13de2b1594d4ed4a","x":260,"y":-220,"width":593,"height":440,"color":"2","type":"group","label":"Flow-Control/Link Layer Acks/Handling ACKs and Errors/Detecting Errors"},
-		{"id":"04a91e0bfdb0ac65","x":-340,"y":-220,"width":577,"height":440,"color":"1","type":"group","label":"Layer Encapsulation/Transmitting Bits/Link Layer Functions"},
-		{"id":"07a18686a050dd61","x":900,"y":-220,"width":577,"height":440,"color":"3","type":"group","label":"Framing/Media Access Protocol"},
-		{"id":"5654310699ae735e","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-001.png","x":-320,"y":-200,"width":260,"height":399},
-		{"id":"9dee376a3244f9a7","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-002.png","x":-40,"y":-200,"width":257,"height":400},
-		{"id":"ed82df2c8411e528","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-003.png","x":280,"y":-200,"width":270,"height":400},
-		{"id":"f519e57eb8872640","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-004.png","x":570,"y":-200,"width":263,"height":400},
-		{"id":"eafa0d4f9ebd37dc","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-005.png","x":920,"y":-200,"width":277,"height":399},
-		{"id":"1856d96e3341fbb3","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-006.png","x":1217,"y":-200,"width":240,"height":400}
+		{"id":"13de2b1594d4ed4a","type":"group","x":260,"y":-220,"width":593,"height":440,"color":"2","label":"Flow-Control/Link Layer Acks/Handling ACKs and Errors/Detecting Errors"},
+		{"id":"04a91e0bfdb0ac65","type":"group","x":-340,"y":-220,"width":577,"height":440,"color":"1","label":"Layer Encapsulation/Transmitting Bits/Link Layer Functions"},
+		{"id":"07a18686a050dd61","type":"group","x":900,"y":-220,"width":577,"height":440,"color":"3","label":"Framing/Media Access Protocol"},
+		{"id":"5654310699ae735e","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-001.png","x":-320,"y":-200,"width":260,"height":399},
+		{"id":"9dee376a3244f9a7","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-002.png","x":-40,"y":-200,"width":257,"height":400},
+		{"id":"ed82df2c8411e528","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-003.png","x":280,"y":-200,"width":270,"height":400},
+		{"id":"f519e57eb8872640","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-004.png","x":570,"y":-200,"width":263,"height":400},
+		{"id":"eafa0d4f9ebd37dc","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-005.png","x":920,"y":-200,"width":277,"height":399},
+		{"id":"1856d96e3341fbb3","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-006.png","x":1217,"y":-200,"width":240,"height":400}
 	],
 	"edges":[]
 }

@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"a22d8098a31e2df0","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-109.png","x":717,"y":-201,"width":259,"height":400},
-		{"id":"3581accdd46886f6","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-108.png","x":360,"y":-201,"width":277,"height":399},
-		{"id":"f18620f7311dc605","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-107.png","x":-23,"y":-201,"width":303,"height":400},
-		{"id":"4ed8682ecf4c63eb","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-106.png","x":-381,"y":-201,"width":278,"height":400},
-		{"id":"7955dc9fe42b2cba","type":"file","file":"notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs/Distributed Systems and Networks-110.png","x":1056,"y":-201,"width":274,"height":399}
+		{"id":"a22d8098a31e2df0","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-109.png","x":717,"y":-201,"width":259,"height":400},
+		{"id":"3581accdd46886f6","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-108.png","x":360,"y":-201,"width":277,"height":399},
+		{"id":"f18620f7311dc605","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-107.png","x":-23,"y":-201,"width":303,"height":400},
+		{"id":"4ed8682ecf4c63eb","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-106.png","x":-381,"y":-201,"width":278,"height":400},
+		{"id":"7955dc9fe42b2cba","type":"file","file":"Paper Note PNGs/Distributed Systems and Networks PNGs/Distributed Systems and Networks-110.png","x":1056,"y":-201,"width":274,"height":399}
 	],
 	"edges":[]
 }

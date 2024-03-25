@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Canvases/Network Security.canvas",
+                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
                 "viewState": {
-                  "x": -517.448006356981,
-                  "y": -426.4254346201751,
-                  "zoom": -1.60075064088003
+                  "x": -579.3015121557124,
+                  "y": -228.6484300339651,
+                  "zoom": -0.7408081294191724
                 }
               }
             }
@@ -40,9 +40,11 @@
             "id": "09b9b167534f9a41",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "concepts/Eigenfaces.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "treatise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +70,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5ea63f941bfa95cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -84,35 +97,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "802c9b87d2a92889",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Canvases/Network Security.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "dd90c5c7342300f7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Canvases/Network Security.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "3122ff376677c2ef",
             "type": "leaf",
             "state": {
@@ -124,20 +108,58 @@
             }
           },
           {
-            "id": "836993a8d2e7e440",
+            "id": "4665a90338d5d99d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8f11b76688cd8ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d4b292b3b9eb6a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Uni Content/Distributed Systems and Networks/Canvases/Network Security.canvas"
+                "file": "notes/Uni Content/Programming 2/Canvases/JVM.canvas"
               }
             }
+          },
+          {
+            "id": "3311b33a446006f9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -148,65 +170,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "b086ddab0cdac173",
   "lastOpenFiles": [
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
+    "notes/Uni Content/Programming 2/Programming II ToC.md",
+    "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
+    "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
+    "notes/Uni Content/Programming 2/Canvases/test.py",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-85.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-84.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-81.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-82.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-83.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-80.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-79.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-78.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-75.png",
+    "Paper Note PNGs/Programming II PNGs/Programming 2-77.png",
+    "Paper Note PNGs/Programming II PNGs",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/test.py",
+    "_index.md",
     "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks ToC.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
-    "notes/Uni Content/Distributed Systems and Networks/Canvases/Application Layer Protocols.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
     "notes/Uni Content/Distributed Systems and Networks/Contents/IPv6 (Section).md",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/IPv6.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Network Security (Distributed Systems and Networks).md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Network Security.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Physical and Link Layers.canvas",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
+    "Paper Note PNGs/Distributed Systems and Networks PNGs",
+    "Paper Note PNGs",
+    "notes/Uni Content/Computer Vision/Image Formation.md",
+    "concepts/Fourier Transform.md",
+    "notes/Uni Content/Computer Vision/Image Sampling.md",
+    "notes/Uni Content/Computer Vision/Finding More Shapes.md",
+    "notes/Uni Content/Computer Vision/Computer Vision ToC.md",
+    "notes/Uni Content/Advanced Computer Networks/Advanced Computer Networks ToC.md",
+    "notes/Uni Content/Advanced Computer Networks/Week 9/Network Security (Advanced Computer Networks).md",
+    "notes/Uni Content/Advanced Computer Networks/Week 4/Wireless Sensor Networks.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
+    "notes/Uni Content/Computer Vision/Covariance and Principal Components.md",
+    "concepts/Eigenfaces.md",
+    "notes/Uni Content/Computer Vision/Large Scale Image Search.md",
+    "notes/Uni Content/Computer Vision/Edge Detection.md",
+    "notes/Uni Content/Computer Vision/Finding Shapes.md",
+    "notes/Uni Content/Distributed Systems and Networks/Contents/Application Layer Protocols.md",
+    "notes/Uni Content/Distributed Systems and Networks/Canvases/Application Layer Protocols.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Physical, Architectural and Fundamental Models.md",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Distributed Algorithms & Clocks.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Characteristics of Distributed Systems.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/MQTT and CoAP (Distributed Systems & Networks).md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Transport Layer.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Internet & Network Layer.md",
-    "notes/Uni Content/Distributed Systems and Networks/Contents/Physical and Link Layers.md",
-    "notes/Uni Content/Programming 2/Contents/C Programming.md",
-    "_index.md",
-    "notes/Uni Content/Programming 2/Programming II ToC.md",
-    "notes/Uni Content/Programming Language Concepts/Programming Language Concepts.md",
-    "notes/Uni Content/Foundations of Comp Sci/Foundations of Comp Sci.md",
-    "notes/Uni Content/Theory of Computing/Theory of Computing.md",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Domain Name System.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Transport Layer.canvas",
-    "notes/Uni Content/Distributed Systems and Networks/Canvases/Internet & Network Layer.canvas",
-    "notes/Uni Content/Distributed Systems and Networks/Canvases/Physical and Link Layers.canvas",
-    "notes/Uni Content/Programming 2/Contents/Iteration and Streaming in Java.md",
-    "notes/Uni Content/Programming 2/Contents/Software Testing and Unit Testing.md",
-    "notes/Uni Content/Programming 2/Contents/Control Flow.md",
-    "notes/Uni Content/Programming 2/Contents/File IO.md",
-    "notes/Uni Content/Programming 2/Contents/JavaFX Graphics.md",
-    "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
-    "notes/Uni Content/Programming 2/Contents/Programming Concepts.md",
     "notes/Uni Content/Programming 2/Canvases/Programming Concepts.canvas",
     "notes/Uni Content/Programming 2/Canvases/GUIs.canvas",
-    "notes/Uni Content/Programming 2/Canvases/Synchronising Code and Methods.canvas",
-    "notes/Uni Content/Programming 2/Canvases/Multithreading.canvas",
     "notes/Domain Management and Apache Deployment",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-33.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-81.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-72.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-61.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-54.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-46.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-26.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-24.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-19.png",
-    "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2-15.png",
     "notes/Uni Content/Programming 2/Canvases",
     "notes/Uni Content/Programming 2/Programming II PNGs/Programming 2.zip",
     "notes/Uni Content/Programming 2/Programming II PNGs",
-    "notes/Uni Content/Programming 2/Programming 2.zip",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks PNGs",
-    "notes/Uni Content/Distributed Systems and Networks/Distributed Systems and Networks.pdf",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups/Distributed Systems and Networks",
-    "Excalidraw/Distributed Systems and Networks Excalidraw MD Backups",
-    "notes/GPT Notes/Deep Learning"
+    "notes/Uni Content/Programming 2/Programming 2.zip"
   ]
 }

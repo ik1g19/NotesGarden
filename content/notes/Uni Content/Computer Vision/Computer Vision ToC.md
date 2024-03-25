@@ -20,7 +20,7 @@
 
 #### [[notes/Uni Content/Computer Vision/Machine Learning for Pattern Recognition|Machine Learning for Pattern Recognition]]
 
-#### [[notes/Uni Content/Computer Vision/Covariance and Prinicpal Components|Covariance and Prinicpal Components]]
+#### [[Covariance and Principal Components|Covariance and Principal Components]]
 
 #### [[notes/Uni Content/Computer Vision/Local Interest Points|Local Interest Points]]
 

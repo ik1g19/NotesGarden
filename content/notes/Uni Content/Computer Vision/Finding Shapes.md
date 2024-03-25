@@ -1,10 +1,11 @@
 
+
+
 # Concepts
 
 - [[Hough Transform]]
 
 ---
-
 # Grouping points to find shapes
 ## Template Matching
 
