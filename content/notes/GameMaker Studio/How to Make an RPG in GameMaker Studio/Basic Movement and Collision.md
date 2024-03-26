@@ -1,18 +1,18 @@
 # Basic Movement
 
-Right click sprites to create a new sprite
+Right click the sprites folder to create a new sprite
 
 Click on the first frame of the sprite (at the bottom) to bring up the sprite editor
 
 Image > *Resize all frames* > *Resize Canvas* to resize the sprite
 
-Right click objects to create an object
+Right click the objects folder to create an object
 
-Rooms are places where you can put your different objects
+**Rooms** are places where you can put your different objects
 
 The **instances** layer are objects that have actually been placed into the game
 
-Click the instances layer, and then click the object you want to place - hold **alt** and you then will be able to click to place an instance of that object in the game
+Click the instances layer, and then click the object you want to place - hold *alt* and you then will be able to click to place an instance of that object in the game
 
 Resize the room size in the bottom left properties box
 
@@ -27,7 +27,7 @@ The viewport width and height will then determine the actual width and height of
 
 Add events to an object to have them run code
 
-The **step** event runs every frame of the game
+The `step` event runs every frame of the game
 
 Basic movement detection for step:
 
@@ -77,4 +77,6 @@ x += xspd;
 y += yspd;
 ```
 
-# 
+`x` and `y` do not specify the actual point to check collision for, rather they represent where the position of the collision mask associated with the calling object is
+
+so `x + xpsd, y, obj_wall` means check if there is a collision between the calling collision mask at position `x + xspd, y` with the collision mask associated with `obj_wall`

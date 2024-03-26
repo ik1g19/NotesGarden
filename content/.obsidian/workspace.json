@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md"
+                "file": "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md"
               }
             }
           },
@@ -173,29 +173,30 @@
   },
   "active": "b086ddab0cdac173",
   "lastOpenFiles": [
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325022110.png",
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325021734.png",
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325021035.png",
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325020619.png",
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Room Transitions.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240326002957.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325235558.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325235321.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325234817.png",
     "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Basic Movement and Collision.md",
-    "notes/Other Content.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325231450.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/How to Make an RPG in GameMaker Studio ToC.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325201135.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Depth and Decor.md",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325202114.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325201758.png",
+    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325201217.png",
+    "Pasted image 20240325201045.png",
     "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Animation, Tilesets and Simple Cameras.md",
+    "notes/Other Content.md",
     "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images",
     "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio",
-    "notes/GameMaker Studio/How to Make an RPG in GameMaker Studio/Images/Pasted image 20240325015547.png",
     "notes/Uni Content/Programming 2/Canvases/JVM.canvas",
     "notes/Uni Content/Programming 2/Contents/Control Flow.md",
     "notes/Uni Content/Programming 2/Programming II ToC.md",
     "notes/Uni Content/Programming 2/Contents/Trees (Section).md",
     "notes/Uni Content/Programming 2/Canvases/Trees.canvas",
     "notes/Uni Content/Programming 2/Canvases/test.py",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-85.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-84.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-81.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-82.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-83.png",
-    "Paper Note PNGs/Programming II PNGs/Programming 2-80.png",
     "Paper Note PNGs/Programming II PNGs",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/test.py",
     "_index.md",
@@ -220,8 +221,6 @@
     "notes/Uni Content/Advanced Computer Networks/Week 4/Wireless Sensor Networks.md",
     "notes/Uni Content/Distributed Systems and Networks/Contents/Domain Name System.md",
     "notes/Uni Content/Computer Vision/Covariance and Principal Components.md",
-    "concepts/Eigenfaces.md",
-    "notes/Uni Content/Computer Vision/Large Scale Image Search.md",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Application Layer Protocols.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Domain Name System.canvas",
     "notes/Uni Content/Distributed Systems and Networks/Canvases/Transport Layer.canvas",
